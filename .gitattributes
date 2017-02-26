@@ -1,0 +1,5 @@
+*.dbf binary
+*.sbn binary
+*.sbx binary
+*.shp binary
+*.shx binary
