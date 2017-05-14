@@ -136,8 +136,14 @@ https://github.com/berlinermorgenpost/cogran
 - https://civey.com/
 - https://dbk.gesis.org/dbksearch/index2.asp?db=d
 
-- Umfrage-Scraper für wahlrecht.de in JavaScript: https://github.com/juliuste/wahlrecht
-- Umfragen-Bias: https://www.vis4.net/blog/posts/analyzing-bias-in-election-polls-with-r/
+**Umfrage-Scraper für wahlrecht.de**
+
+- JavaScript: https://github.com/juliuste/wahlrecht
+- Python: https://github.com/stefanw/wahlrecht
+
+**Umfragen-Bias**
+
+- https://www.vis4.net/blog/posts/analyzing-bias-in-election-polls-with-r/
 
 
 
