@@ -102,7 +102,7 @@ https://github.com/berlinermorgenpost/cogran
 ## Wahlmodelle
 
 “**Modelle**”
-- https://signalundrauschen.de/ - Journalistisches 
+- https://signalundrauschen.de/ - [Model auf Github](https://github.com/aleininger/sur)
 - https://pollytix.de/wahltrend/
 - http://pollyvote.com/de/
 - http://zweitstimme.org/
@@ -140,6 +140,7 @@ https://github.com/berlinermorgenpost/cogran
 
 - JavaScript: https://github.com/juliuste/wahlrecht
 - Python: https://github.com/stefanw/wahlrecht
+- R: https://github.com/aleininger/sur
 
 **Umfragen-Bias**
 
