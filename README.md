@@ -265,7 +265,7 @@ Pad mit allen aktuellen Terminen für Community Events in Deutschland, die sich 
 - 03.05: [Jenseits der Glaskugel: Wissenschaftliche Vorhersagen zur Bundestagswahl 2017](https://www.hertie-school.org/en/jenseits-der-glaskugel/), Berlin
 - 07.05. Schleswig-Holstein-Wahl 
 - 15.05. Nordrhein-Westfalen-Wahl 
-- 26.05.: [Wahlsalon in Berlin](https://codefor.de/wahlsalon)
+- 24.05.: [Wahlsalon in Berlin](https://codefor.de/wahlsalon)
 - Anfang Juli: Wahlsalon 2 in Köln oder Frankfurt 
 - 23.06. - 25.06.2017: [Wikidata Workshop in Ulm](https://de.wikipedia.org/wiki/Wikipedia:Wikidata-Wahldaten-Workshop)
 - 06.09. - 09.09.2017: [Campfire Festival](http://campfirefestival.org/)
