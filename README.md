@@ -107,6 +107,7 @@ https://github.com/berlinermorgenpost/cogran
 - http://pollyvote.com/de/
 - http://zweitstimme.org/
 - https://www.inwt-statistics.de/blog-artikel-lesen/wahlprognose-fuer-die-bundestagswahl-2017.html
+- http://www.election.de/cgi-bin/news1.pl - Erststimmenprognosen
 
 “**Umfragedaten**"
 - http://wahlrecht.de/
@@ -146,6 +147,10 @@ https://github.com/berlinermorgenpost/cogran
 
 - https://www.vis4.net/blog/posts/analyzing-bias-in-election-polls-with-r/
 
+**IT-infrastrukturanbieter für Wahlen**
+
+- https://vote-it.de/
+- http://www.voteplus.de/
 
 
 
