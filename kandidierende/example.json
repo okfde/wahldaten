@@ -1,0 +1,61 @@
+[{
+	"id": "0123456789abcdef", // sha256(state-party-surname-forename)
+	"election": {
+		"party": "abc",
+		"state": "bb", // two letter code
+		"list": 1,
+		"district": 1, // integer, no leading zeros
+		"mandate": "b", // e: MdEP, b: MdB, xx: MdL state
+		"lead": true // 'spitzenkandidat_in'
+	},
+	"name": {
+		"titles": "Dr.",
+		"forename": "Peter",
+		"surname": "Meier",
+		"affix": "jr." // name affix
+	},
+	"aliases": [ // alternative writings, for matching, all lower case and no special characters
+		"peter meier"
+		"peter harry meier",
+		"peter h meier",
+		"harry peter meier"
+	],
+	"facts": { // this is extensible
+		"gender": "m", // m, f, x, null
+		"dateofbirth": "1970-01-01",
+		"placeofbirth": "Musterhausen, Deutschland",
+		"placeofresidence": "Musterhausen, Deutschland",
+		"occupation": "Blafasel",
+		"maritalstatus": true,
+		"offspring": 2
+	},
+	"photos": [{
+		"url": "https://petermeier.com/peter.jpg",
+		"license": null,
+		"author": "Peter Meier"
+	}],
+	"links": [{
+		"type": "website",
+		"url": "https://petermeier.com/"
+	},{
+		"type": "facebook",
+		"id": "Peter.Meier",
+		"url": "https://facebook.com/Peter.Meier"
+	},{
+		"type": "twitter",
+		"id": "pmeier_",
+		"url": "https://twitter.com/pmeier_"
+	},{
+		"type": "agw",
+		"id": "peter-meier",
+		"url": "https://www.abgeordnetenwatch.de/profile/peter-meier"
+	},{
+		"type": "wikipedia",
+		"id": "Peter_Meier",
+		"url": "https://de.wikipedia.org/wiki/Peter_Meier"
+	},{
+		"type": "bundestag",
+		"id": "M/meier_peter/123456",
+		"url": "http://www.bundestag.de/abgeordnete18/biografien/M/meier_peter/123456"
+	}]
+}]
