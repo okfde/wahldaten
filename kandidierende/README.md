@@ -69,7 +69,8 @@ JSON-Datenstruktur. `null` bedeutet immer, "keine Daten".
 		"type": "bundestag",
 		"id": "M/meier_peter/123456",
 		"url": "http://www.bundestag.de/abgeordnete18/biografien/M/meier_peter/123456"
-	}]
+	}],
+	"checked": false // everything has been checked by a human being
 }]
 
 ```
