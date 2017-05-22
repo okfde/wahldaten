@@ -5039,7 +5039,9 @@
 			"affix": null
 		},
 		"aliases": [
-			"stephan rauhut"
+			"stephan rauhut",
+			"steve rauhut",
+			"stephan steve rauhut"
 		],
 		"facts": {
 			"gender": "m",
@@ -6337,7 +6339,8 @@
 			"affix": null
 		},
 		"aliases": [
-			"maurice mueller"
+			"maurice mueller",
+			"maurice b mueller"
 		],
 		"facts": {
 			"gender": "m",
@@ -13276,7 +13279,9 @@
 		"aliases": [
 			"stella kirgiane",
 			"stella efremidis",
-			"stella kirgiane efremidis"
+			"stella kirgiane efremidis",
+			"stella efremidou",
+			"stella kirgiane efremidou"
 		],
 		"facts": {
 			"gender": "w",
@@ -14429,12 +14434,16 @@
 		},
 		"name": {
 			"titles": "Prof. Dr. Dr.",
-			"forename": "Alexander",
+			"forename": "Alexander Paul Friedrich",
 			"surname": "Ehlers",
 			"affix": null
 		},
 		"aliases": [
-			"alexander ehlers"
+			"alexander ehlers",
+			"alexander paul friedrich ehlers",
+			"alexander p f ehlers",
+			"alexander paul ehlers",
+			"alexander friedrich ehlers"
 		],
 		"facts": {
 			"gender": "m",
@@ -23371,7 +23380,8 @@
 			"affix": null
 		},
 		"aliases": [
-			"bettina wiesmann"
+			"bettina wiesmann",
+			"bettina m wiesmann"
 		],
 		"facts": {
 			"gender": "m",
@@ -23485,7 +23495,7 @@
 	},
 	{
 		"id": "e29cdf60",
-		"slug": "nicola-beer--fdp-he",
+		"slug": "nicola-beer-fdp-he",
 		"election": {
 			"party": "fdp",
 			"state": "he",
@@ -23497,7 +23507,7 @@
 		"name": {
 			"titles": null,
 			"forename": "Nicola",
-			"surname": "Beer,",
+			"surname": "Beer",
 			"affix": null
 		},
 		"aliases": [
@@ -25847,7 +25857,8 @@
 			"affix": null
 		},
 		"aliases": [
-			"ulrike nissen"
+			"ulrike nissen",
+			"ulli nissen"
 		],
 		"facts": {
 			"gender": "w",
@@ -37249,7 +37260,8 @@
 			"affix": null
 		},
 		"aliases": [
-			"samantha westphal"
+			"samantha westphal",
+			"sam westphal"
 		],
 		"facts": {
 			"gender": "f",
@@ -56730,7 +56742,8 @@
 			"affix": null
 		},
 		"aliases": [
-			"karsten teubner"
+			"karsten teubner",
+			"karsten u teubner"
 		],
 		"facts": {
 			"gender": "m",
@@ -61018,7 +61031,7 @@
 	},
 	{
 		"id": "875d4d13",
-		"slug": "bernhard-gottfied-boenisch-cdu-st",
+		"slug": "bernhard-gottfried-boenisch-cdu-st",
 		"election": {
 			"party": "cdu",
 			"state": "st",
@@ -61029,14 +61042,14 @@
 		},
 		"name": {
 			"titles": null,
-			"forename": "Bernhard Gottfied",
+			"forename": "Bernhard Gottfried",
 			"surname": "Bönisch",
 			"affix": null
 		},
 		"aliases": [
 			"bernhard boenisch",
-			"gottfied boenisch",
-			"bernhard gottfied boenisch"
+			"gottfried boenisch",
+			"bernhard gottfried boenisch"
 		],
 		"facts": {
 			"gender": "m",
@@ -65262,7 +65275,8 @@
 			"affix": null
 		},
 		"aliases": [
-			"thomas kemmerich"
+			"thomas kemmerich",
+			"thomas l kemmerich"
 		],
 		"facts": {
 			"gender": "m",
