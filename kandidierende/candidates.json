@@ -42002,43 +42002,6 @@
 		]
 	},
 	{
-		"id": "4eb5e05e",
-		"slug": "markus-schiek-fdp-nw",
-		"election": {
-			"party": "fdp",
-			"state": "nw",
-			"list": 41,
-			"district": null,
-			"mandate": null,
-			"lead": true
-		},
-		"name": {
-			"titles": null,
-			"forename": "Markus",
-			"surname": "Schiek",
-			"affix": null
-		},
-		"aliases": [
-			"markus schiek"
-		],
-		"facts": {
-			"gender": "m",
-			"dateofbirth": null,
-			"placeofbirth": null,
-			"placeofresidence": null,
-			"occupation": null,
-			"maritalstatus": null,
-			"offspring": null
-		},
-		"photos": [],
-		"links": [
-			{
-				"type": "profile",
-				"url": "https://www.fdp.nrw/sites/default/files/2016-11/WK%20135%20Markus%20Schiek.pdf"
-			}
-		]
-	},
-	{
 		"id": "fc10857c",
 		"slug": "frank-schniske-fdp-nw",
 		"election": {
