@@ -232,7 +232,7 @@ Sammelt der BWL alle Daten oder z.B. nur aggregiert auf Wahlkreis-Ebene?
 - https://www.propublica.org/article/taking-cues-and-some-projects-from-sunlight-labs
 - **Vote.org** – Eine Website aus den USA die Informationen rund um die Wahl einfach und einheitlich aufbereitet und WählerInnen dabei hilft Briefwahl zu beantragen und ein Wahllokal zu finden. Vote.org ist eine NGO die seit kurzem im Y-Combinator Programm supported wird.
 - **PolitiFact** – Ein mit dem Publitzer Preis ausgezeichnetes Projekt. PolitiFact ist eine Fakten-Check-Plattform, die den Wahrheitsgehalt von Aussagen von PolitikerInnen prüft.
-- **Spiegel Online Wahlprogramm Browser** – Die Anwendung stellt einfach und verständlich mit einem Farbcode dar, wieviel sich Wahlprogramme einem bestimmten Thema widmen. Der Code liegt offen auf github und wurde von Friedrich Lindenberg entwickelt.
+- **Spiegel Online Wahlprogramm Browser** – Die Anwendung stellt einfach und verständlich mit einem Farbcode dar, wieviel sich Wahlprogramme einem bestimmten Thema widmen. Der Code liegt offen auf github und wurde von Friedrich Lindenberg entwickelt. (http://www.spiegel.de/politik/deutschland/wahlprogramm-browser-vergleichen-sie-die-parteipositionen-a-918624.html und auf Github https://github.com/pudo/wahlprogramme )
 - **Wahlversprechen 2013** – Die Seite trackt welche Wahlversprechen bereits eingelöst wurden, welche gebrochen wurden und welche in Kompromissen aufgingen. Die Anwendung stammt aus der Open Knowledge Community und wurde 2013 entwickelt.
 - **Election Maps** – Visualisierungen der Wahlergebnisse auf Basis von Bevölkerungsgröße der US Bundesstaaten.
 - Wahlprogrammvergleiche von Daniel Kirch: http://codeformuenster.org/wahlprogramm-matrix/
@@ -252,8 +252,7 @@ Sammelt der BWL alle Daten oder z.B. nur aggregiert auf Wahlkreis-Ebene?
 - http://www.morgenpost.de/politik/article124923347/Warum-Abgeordnete-ihr-Bundestagsmandat-niederlegen.html?config=interactive
 - http://www.morgenpost.de/politik/bundestagswahl/article117631717/Interaktiver-Stimmzettel-Wen-Sie-waehlen-koennen.html?config=interactive
 - http://www.morgenpost.de/politik/bundestagswahl/article119332220/TV-Duell-Die-Gesten-von-Merkel-und-Steinbrueck.html?config=interactive
-
-
+- Wahlprogramme von >50 Ländern ab 1945 beim WZB: https://manifesto-project.wzb.eu/
 
 
 
