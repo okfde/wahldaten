@@ -35,6 +35,7 @@ JSON-Datenstruktur. `null` bedeutet immer, "keine Daten".
 	"facts": { // this is extensible
 		"gender": "m", // "m", "f", "x" or null
 		"dateofbirth": "1970-01-01",
+		"yearofbirth": 1970,
 		"placeofbirth": "Musterhausen, Deutschland",
 		"placeofresidence": "Musterhausen, Deutschland",
 		"occupation": "Blafasel",
