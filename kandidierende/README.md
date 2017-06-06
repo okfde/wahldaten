@@ -40,7 +40,8 @@ JSON-Datenstruktur. `null` bedeutet immer, "keine Daten".
 		"placeofresidence": "Musterhausen, Deutschland",
 		"occupation": "Blafasel",
 		"maritalstatus": true,
-		"offspring": 2
+		"offspring": 2,
+		"rel": "ka" // "ka", "ev", "is", false or null
 	},
 	"photos": [{
 		"url": "https://petermeier.com/peter.jpg",
