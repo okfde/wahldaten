@@ -113207,5 +113207,1987 @@
 			}
 		],
 		"checked": false
+	},
+	{
+		"id": "76d39223",
+		"slug": "frank-magnitz-afd-hb",
+		"election": {
+			"party": "afd",
+			"state": "hb",
+			"list": 1,
+			"district": 55,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Frank",
+			"surname": "Magnitz",
+			"affix": null
+		},
+		"aliases": [
+			"frank magnitz"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Bremen",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1952,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Frank_Magnitz"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "31c5e1f1",
+		"slug": "silvia-brock-afd-hb",
+		"election": {
+			"party": "afd",
+			"state": "hb",
+			"list": null,
+			"district": 54,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Silvia",
+			"surname": "Brock",
+			"affix": null
+		},
+		"aliases": [
+			"silvia brock"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Bremen",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": null,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/silvia.brock1"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "69912048",
+		"slug": "robert-teske-afd-hb",
+		"election": {
+			"party": "afd",
+			"state": "hb",
+			"list": 2,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Robert",
+			"surname": "Teske",
+			"affix": null
+		},
+		"aliases": [
+			"robert teske"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1990-03-18",
+			"placeofbirth": null,
+			"placeofresidence": "Bremen",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1990,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/robert.teske.982"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/RobertTeskeHB"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "178e9d09",
+		"slug": "alexander-tassis-afd-hb",
+		"election": {
+			"party": "afd",
+			"state": "hb",
+			"list": 3,
+			"district": null,
+			"mandate": "l",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Alexander",
+			"surname": "Tassis",
+			"affix": null
+		},
+		"aliases": [
+			"alexander tassis"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1970-06-02",
+			"placeofbirth": "Athen",
+			"placeofresidence": "Bremen",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1970,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Alexander_Tassis"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/alextassisafd"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "26571689",
+		"slug": "daniel-schuette-afd-sl",
+		"election": {
+			"party": "afd",
+			"state": "sl",
+			"list": null,
+			"district": 299,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Daniel",
+			"surname": "Schütte",
+			"affix": null
+		},
+		"aliases": [
+			"daniel schuette"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Homburg",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1970,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/DJSchuette"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "38f45319",
+		"slug": "michel-doerr-afd-sl",
+		"election": {
+			"party": "afd",
+			"state": "sl",
+			"list": 1,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Michel",
+			"surname": "Dörr",
+			"affix": null
+		},
+		"aliases": [
+			"michel doerr"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1963-01-01",
+			"placeofbirth": null,
+			"placeofresidence": "Quierschied",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1963,
+			"rel": null
+		},
+		"photos": [],
+		"links": [],
+		"checked": false
+	},
+	{
+		"id": "b0829fdb",
+		"slug": "dieter-mueller-afd-sl",
+		"election": {
+			"party": "afd",
+			"state": "sl",
+			"list": 2,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Dieter",
+			"surname": "Müller",
+			"affix": null
+		},
+		"aliases": [
+			"dieter mueller"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1966-02-15",
+			"placeofbirth": null,
+			"placeofresidence": "Völklingen",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1966,
+			"rel": null
+		},
+		"photos": [
+			{
+				"url": "https://cdn.afd.tools/sites/87/2017/01/15110343/Dieter.jpg",
+				"license": null,
+				"author": null
+			}
+		],
+		"links": [],
+		"checked": false
+	},
+	{
+		"id": "9f8041c7",
+		"slug": "laleh-hadjimohamadvali-afd-sl",
+		"election": {
+			"party": "afd",
+			"state": "sl",
+			"list": 3,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Laleh",
+			"surname": "Hadjimohamadvali",
+			"affix": null
+		},
+		"aliases": [
+			"laleh hadjimohamadvali"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1972-12-14",
+			"placeofbirth": "Tehran",
+			"placeofresidence": "Malstatt",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1972,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null
+		],
+		"checked": false
+	},
+	{
+		"id": "06493760",
+		"slug": "armin-thiele-afd-sl",
+		"election": {
+			"party": "afd",
+			"state": "sl",
+			"list": 4,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Armin",
+			"surname": "Thiele",
+			"affix": null
+		},
+		"aliases": [
+			"armin thiele"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": "Dudweiler",
+			"placeofresidence": "Saarbrücken",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1958,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/armin.thiele.1"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "73a560a2",
+		"slug": "hans-joachim-stamm-afd-sl",
+		"election": {
+			"party": "afd",
+			"state": "sl",
+			"list": 5,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Hans-Joachim",
+			"surname": "Stamm",
+			"affix": null
+		},
+		"aliases": [
+			"hans joachim stamm"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Malstatt",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1952,
+			"rel": null
+		},
+		"photos": [],
+		"links": [],
+		"checked": false
+	},
+	{
+		"id": "bdcfbbdc",
+		"slug": "gerd-schon-afd-sl",
+		"election": {
+			"party": "afd",
+			"state": "sl",
+			"list": 6,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Gerd",
+			"surname": "Schon",
+			"affix": null
+		},
+		"aliases": [
+			"gerd schon"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": "Dudweiler",
+			"placeofresidence": "Friedrichsthal",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1956,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/gerd.schon.5"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "ffd35f2d",
+		"slug": "oliver-luksic-fdp-sl",
+		"election": {
+			"party": "fdp",
+			"state": "sl",
+			"list": 1,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Oliver",
+			"surname": "Luksic",
+			"affix": null
+		},
+		"aliases": [
+			"oliver luksic"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1979-10-09",
+			"placeofbirth": "Saarbrücken",
+			"placeofresidence": null,
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1979,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/Oliver-Luksic-52888328642/"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/olliluksic"
+			},
+			{
+				"type": "instagram",
+				"url": "https://www.instagram.com/olliluksic/"
+			},
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Oliver_Luksic"
+			},
+			null
+		],
+		"checked": false
+	},
+	{
+		"id": "fa8b1330",
+		"slug": "roland-koenig-fdp-sl",
+		"election": {
+			"party": "fdp",
+			"state": "sl",
+			"list": 2,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Roland",
+			"surname": "König",
+			"affix": null
+		},
+		"aliases": [
+			"roland koenig"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1964-04-16",
+			"placeofbirth": "Saarbrücken",
+			"placeofresidence": "Saarbrücken",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1964,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/roland.konig.58"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "1b85defa",
+		"slug": "kirsten-cortez-de-lobao-fdp-sl",
+		"election": {
+			"party": "fdp",
+			"state": "sl",
+			"list": 3,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Kirsten",
+			"surname": "Cortez de Lobao",
+			"affix": null
+		},
+		"aliases": [
+			"kirsten cortez de lobao"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1963-09-24",
+			"placeofbirth": "Erbach im Odenwald",
+			"placeofresidence": "Saarlouis",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1963,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/people/Kirsten-Cortez-de-Lobao/100001929981658"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/kcortez66740"
+			},
+			null
+		],
+		"checked": false
+	},
+	{
+		"id": "87498549",
+		"slug": "peter-habel-fdp-sl",
+		"election": {
+			"party": "fdp",
+			"state": "sl",
+			"list": 4,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Peter",
+			"surname": "Habel",
+			"affix": null
+		},
+		"aliases": [
+			"peter habel"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Neunkirchen",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1963,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "agw",
+				"url": "https://www.abgeordnetenwatch.de/profile/peter-habel"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "7fd0fb7c",
+		"slug": "helmut-isringhaus-fdp-sl",
+		"election": {
+			"party": "fdp",
+			"state": "sl",
+			"list": 5,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": "Dr.",
+			"forename": "Helmut",
+			"surname": "Isringhaus",
+			"affix": null
+		},
+		"aliases": [
+			"helmut isringhaus",
+			"paul helmut isringhaus"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": "Wuppertal",
+			"placeofresidence": "Saarbrücken",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1949,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/user/isringhaus"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/hisringhaus"
+			},
+			{
+				"type": "linkedin",
+				"url": "https://de.linkedin.com/in/dr-helmut-isringhaus-785a0073"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "220ff3a2",
+		"slug": "markus-tressel-gruene-sl",
+		"election": {
+			"party": "gruene",
+			"state": "sl",
+			"list": 1,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Markus",
+			"surname": "Tressel",
+			"affix": null
+		},
+		"aliases": [
+			"markus tressel"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1977-04-17",
+			"placeofbirth": "Saarlouis",
+			"placeofresidence": null,
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1977,
+			"rel": null
+		},
+		"photos": [
+			{
+				"url": "https://www.bundestag.de/image/241720/3x4/284/379/6c95dfbf92e1816527bc96799c12161f/Ax/tressel_markus_gross.jpg",
+				"license": null,
+				"author": null
+			}
+		],
+		"links": [
+			{
+				"type": "bundestag",
+				"url": "https://www.bundestag.de/abgeordnete18/biografien/T/tressel_markus/259114"
+			},
+			{
+				"type": "facebook",
+				"url": "http://www.facebook.com/markus.tressel"
+			},
+			{
+				"type": "xing",
+				"url": "http://www.xing.com/profile/Markus_Tressel"
+			},
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Markus_Tressel"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/markustressel"
+			},
+			{
+				"type": "agw",
+				"url": "https://www.abgeordnetenwatch.de/profile/markus-tressel"
+			},
+			null
+		],
+		"checked": false
+	},
+	{
+		"id": "5d601344",
+		"slug": "tina-schoepfer-gruene-sl",
+		"election": {
+			"party": "gruene",
+			"state": "sl",
+			"list": 2,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Tina",
+			"surname": "Schöpfer",
+			"affix": null
+		},
+		"aliases": [
+			"tina schoepfer"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": null,
+			"placeofbirth": "Ottweiler",
+			"placeofresidence": "Neunkirchen-Kohlhof",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1975,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/tina.schoepfer/"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/tinaschoepfer"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Tina_Schoepfer"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "26d362e4",
+		"slug": "jeanne-dillschneider-gruene-sl",
+		"election": {
+			"party": "gruene",
+			"state": "sl",
+			"list": 3,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Jeanne",
+			"surname": "Dillschneider",
+			"affix": null
+		},
+		"aliases": [
+			"jeanne dillschneider"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1995-12-27",
+			"placeofbirth": null,
+			"placeofresidence": "Orscholz",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1995,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/jeanne.dillschneider"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "e1109d59",
+		"slug": "patrick-ginsbach-gruene-sl",
+		"election": {
+			"party": "gruene",
+			"state": "sl",
+			"list": 4,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Patrick",
+			"surname": "Ginsbach",
+			"affix": null
+		},
+		"aliases": [
+			"patrick ginsbach"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Saarbrücken",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1984,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/patrick.ginsbach"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "60488db4",
+		"slug": "yvette-stoppiera-wiebelt-gruene-sl",
+		"election": {
+			"party": "gruene",
+			"state": "sl",
+			"list": 5,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Yvette",
+			"surname": "Stoppiera-Wiebelt",
+			"affix": null
+		},
+		"aliases": [
+			"yvette stoppiera wiebelt",
+			"yvette susan stoppiera wiebelt",
+			"yvette stoppiera",
+			"yvette wiebelt"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": null,
+			"placeofbirth": "Görlitz",
+			"placeofresidence": "Homburg",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1979,
+			"rel": null
+		},
+		"photos": [
+			{
+				"url": "http://www.gruene-homburg.de/wp-content/uploads/2011/05/BTW-2013-YS-Portrait-Web.jpg",
+				"license": null,
+				"author": null
+			}
+		],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/yvette.stoppiera"
+			},
+			null,
+			{
+				"type": "instagram",
+				"url": "https://www.instagram.com/yvette.stoppiera.wiebelt/"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "dd03acb4",
+		"slug": "klara-sendelbach-gruene-sl",
+		"election": {
+			"party": "gruene",
+			"state": "sl",
+			"list": 6,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Klara",
+			"surname": "Sendelbach",
+			"affix": null
+		},
+		"aliases": [
+			"klara sendelbach"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1998-12-08",
+			"placeofbirth": "Saarbrücken",
+			"placeofresidence": "Saarbrücken",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1998,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/klaras_b"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/klara.sb.3"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "b766dec7",
+		"slug": "wolfgang-kubicki-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 1,
+			"district": null,
+			"mandate": "l",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Wolfgang",
+			"surname": "Kubicki",
+			"affix": null
+		},
+		"aliases": [
+			"wolfgang kubicki"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1952-03-03",
+			"placeofbirth": "Braunschweig",
+			"placeofresidence": "Strande",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1952,
+			"rel": "ev"
+		},
+		"photos": [
+			{
+				"url": "http://www.abgeordnetenwatch.de/images/abgeordnete/big/49251/wolfgang_kubicki.jpg",
+				"license": null,
+				"author": null
+			}
+		],
+		"links": [
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/wolfgang_kubicki-306-49251.html"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/kubicki.wolfgang/"
+			},
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Wolfgang_Kubicki"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "7a5b5555",
+		"slug": "bernd-buchholz-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 2,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Bernd",
+			"surname": "Buchholz",
+			"affix": null
+		},
+		"aliases": [
+			"bernd buchholz"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1961-11-02",
+			"placeofbirth": "Berlin",
+			"placeofresidence": "Ahrensburg",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1961,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Bernd_Klaus_Buchholz"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/bernd.buchholz.58"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "8c1778ca",
+		"slug": "christine-aschenberg-dugnus-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 3,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Christine",
+			"surname": "Aschenberg-Dugnus",
+			"affix": null
+		},
+		"aliases": [
+			"christine aschenberg dugnus"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1959-09-22",
+			"placeofbirth": "Eppstein/Taunus",
+			"placeofresidence": "Rendsburg",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1959,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/christine_aschenberg_dugnus-575-37453.html"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/christine.aschenbergdugnus"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Christine_AschenbergDugnus"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Christine-Aschenberg-Dugnus"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/cad59"
+			},
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Christine_Aschenberg-Dugnus"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "f4bc3138",
+		"slug": "gyde-jensen-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 4,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Gyde",
+			"surname": "Jensen",
+			"affix": null
+		},
+		"aliases": [
+			"gyde jensen"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": null,
+			"placeofbirth": "Wobbenbüll",
+			"placeofresidence": "Neudorf-Bornstein",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1989,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/gydej"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/gyde.jensen.33"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Gyde_Jensen"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "e57f436f",
+		"slug": "tobias-maehrlein-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 5,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Tobias",
+			"surname": "Mährlein",
+			"affix": null
+		},
+		"aliases": [
+			"tobias maehrlein"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1959-10-08",
+			"placeofbirth": null,
+			"placeofresidence": "Norderstedt",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1959,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/TobiasMaehrleinFDP/"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "2942354e",
+		"slug": "christian-lucks-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 6,
+			"district": 1,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Christian",
+			"surname": "Lucks",
+			"affix": null
+		},
+		"aliases": [
+			"christian lucks",
+			"christian r m lucks",
+			"christian r m koch",
+			"christian koch"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": "Ibbenbüren",
+			"placeofresidence": "Flensburg",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1975,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/crmkoch"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/crmlucks"
+			},
+			{
+				"type": "linkedin",
+				"url": "https://de.linkedin.com/in/christian-r-m-lucks-707598109"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/christianrm_lucks"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCBdcdPxE9SybLBzpsP1AUyA"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "1724e043",
+		"slug": "joachim-rinke-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 7,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": "Dr.",
+			"forename": "Joachim",
+			"surname": "Rinke",
+			"affix": null
+		},
+		"aliases": [
+			"joachim rinke"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Bosau",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1956,
+			"rel": null
+		},
+		"photos": [],
+		"links": [],
+		"checked": false
+	},
+	{
+		"id": "68baa69d",
+		"slug": "olaf-klampe-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 8,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Olaf",
+			"surname": "Klampe",
+			"affix": null
+		},
+		"aliases": [
+			"olaf klampe"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1955-10-25",
+			"placeofbirth": "Hamburg",
+			"placeofresidence": "Pinneberg",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1955,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null
+		],
+		"checked": false
+	},
+	{
+		"id": "53f1fc7b",
+		"slug": "timo-jeguschke-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 9,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Timo",
+			"surname": "Jeguschke",
+			"affix": null
+		},
+		"aliases": [
+			"timo jeguschke"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1990-12-05",
+			"placeofbirth": null,
+			"placeofresidence": "Lübeck",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1990,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/timojeguschke"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/timo.jeguschke/"
+			},
+			null,
+			{
+				"type": "instagram",
+				"url": "https://instagram.com/timo.jeguschke/"
+			},
+			{
+				"type": "soundcloud",
+				"url": "https://soundcloud.com/timo-jeguschke"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "007b2889",
+		"slug": "martin-wolf-fdp-sh",
+		"election": {
+			"party": "fdp",
+			"state": "sh",
+			"list": 10,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Martin",
+			"surname": "Wolf",
+			"affix": null
+		},
+		"aliases": [
+			"martin wolf"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Preetz",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1962,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/martin_wolf-1031-71951.html"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "9f4f0524",
+		"slug": "martina-renner-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 1,
+			"district": null,
+			"mandate": "b",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Martina",
+			"surname": "Renner",
+			"affix": null
+		},
+		"aliases": [
+			"martina renner"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1967-03-11",
+			"placeofbirth": "Mainz",
+			"placeofresidence": "Bittstädt",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1967,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/martina_renner-1031-73521.html"
+			},
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/martina_renner-778-78597.html"
+			},
+			{
+				"type": "bundestag",
+				"url": "https://www.bundestag.de/abgeordnete18/biografien/R/renner_martina/258930"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/MartinaRenner"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/martina.renner67"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "ce1f58ff",
+		"slug": "ralph-lenkert-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 2,
+			"district": null,
+			"mandate": "b",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Ralph",
+			"surname": "Lenkert",
+			"affix": null
+		},
+		"aliases": [
+			"ralph lenkert"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1967-05-09",
+			"placeofbirth": "Apolda",
+			"placeofresidence": "Jena",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1967,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/ralph.lenkert/"
+			},
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Ralph_Lenkert"
+			},
+			{
+				"type": "bundestag",
+				"url": "https://www.bundestag.de/abgeordnete18/biografien/L/lenkert_ralph/258714"
+			},
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/ralph_lenkert-575-37771.html"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "29a49f11",
+		"slug": "kersten-steinke-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 3,
+			"district": null,
+			"mandate": "b",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Kersten",
+			"surname": "Steinke",
+			"affix": null
+		},
+		"aliases": [
+			"kersten steinke"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1958-12-07",
+			"placeofbirth": "Bad Frankenhausen",
+			"placeofresidence": "Bad Frankenhausen",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1958,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Kersten_Steinke"
+			},
+			{
+				"type": "bundestag",
+				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/steinke_kersten/259080"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/kersten.steinke"
+			},
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/kersten_steinke-575-37836--f269899.html"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "2b4dd49f",
+		"slug": "frank-tempel-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 4,
+			"district": null,
+			"mandate": "b",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Frank",
+			"surname": "Tempel",
+			"affix": null
+		},
+		"aliases": [
+			"frank tempel"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1969-01-19",
+			"placeofbirth": "Belzig",
+			"placeofresidence": "Saara",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1969,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Frank_Tempel"
+			},
+			{
+				"type": "bundestag",
+				"url": "http://www.bundestag.de/abgeordnete18/biografien/T/tempel_frank/259116"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/frank_tempel"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/franktempelmdb/"
+			},
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/frank_tempel-575-38002.html"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "33586aa5",
+		"slug": "sigrid-hupach-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 5,
+			"district": null,
+			"mandate": "b",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Sigrid",
+			"surname": "Hupach",
+			"affix": null
+		},
+		"aliases": [
+			"sigrid hupach"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1968-09-09",
+			"placeofbirth": "Leinefelde",
+			"placeofresidence": "Leinefelde",
+			"occupation": null,
+			"maritalstatus": false,
+			"offspring": null,
+			"yearofbirth": 1968,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/Sigrid-Hupach-Mitglied-des-Deutschen-Bundestages-403694663070481/"
+			},
+			{
+				"type": "bundestag",
+				"url": "https://www.bundestag.de/abgeordnete18/biografien/H/hupach_sigrid/258470"
+			},
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Sigrid_Hupach"
+			},
+			{
+				"type": "agw",
+				"url": "http://www.abgeordnetenwatch.de/sigrid_hupach-778-78210.html"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/sigrid.hupach"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "53a6e006",
+		"slug": "steffen-harzer-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 6,
+			"district": 196,
+			"mandate": "l",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Steffen",
+			"surname": "Harzer",
+			"affix": null
+		},
+		"aliases": [
+			"steffen harzer"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1960-08-28",
+			"placeofbirth": "Eisfeld",
+			"placeofresidence": "Meiningen",
+			"occupation": null,
+			"maritalstatus": false,
+			"offspring": null,
+			"yearofbirth": 1960,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "wikipedia",
+				"url": "https://de.wikipedia.org/wiki/Steffen_Harzer"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/harzerkas"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/steffen.harzer.3"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Steffen_Harzer"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "1deaaee6",
+		"slug": "anke-hofmann-domke-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 7,
+			"district": 192,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Anke",
+			"surname": "Hofmann-Domke",
+			"affix": null
+		},
+		"aliases": [
+			"anke hofmann domke"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": null,
+			"placeofbirth": null,
+			"placeofresidence": "Langewiesen",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1962,
+			"rel": null
+		},
+		"photos": [],
+		"links": [],
+		"checked": false
+	},
+	{
+		"id": "951cd726",
+		"slug": "ralf-kalich-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 8,
+			"district": null,
+			"mandate": "l",
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Ralf",
+			"surname": "Kalich",
+			"affix": null
+		},
+		"aliases": [
+			"ralf kalich"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1961-04-10",
+			"placeofbirth": "Lobenstein",
+			"placeofresidence": "Blankenstein",
+			"occupation": null,
+			"maritalstatus": true,
+			"offspring": null,
+			"yearofbirth": 1961,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			null,
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/MdLRalfKalich/"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/ralfkalich"
+			},
+			{
+				"type": "agw",
+				"url": "https://www.abgeordnetenwatch.de/profile/ralf-kalich-2"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "161e6b14",
+		"slug": "sandra-peschke-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 9,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Sandra",
+			"surname": "Peschke",
+			"affix": null
+		},
+		"aliases": [
+			"sandra peschke"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1977-08-06",
+			"placeofbirth": "Eisenach",
+			"placeofresidence": "Eisenach",
+			"occupation": null,
+			"maritalstatus": false,
+			"offspring": null,
+			"yearofbirth": 1977,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Sandra_Peschke2"
+			},
+			null
+		],
+		"checked": false
+	},
+	{
+		"id": "eff9a9ea",
+		"slug": "arif-ruezgar-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 10,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Arif",
+			"surname": "Rüzgar",
+			"affix": null
+		},
+		"aliases": [
+			"arif ruezgar"
+		],
+		"facts": {
+			"gender": "m",
+			"dateofbirth": "1974-08-16",
+			"placeofbirth": "Langenau",
+			"placeofresidence": "Erfurt",
+			"occupation": null,
+			"maritalstatus": false,
+			"offspring": null,
+			"yearofbirth": 1974,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/arif.ruezgar"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Arif_Ruezgar"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/arifruezgar"
+			},
+			{
+				"type": "soundcloud",
+				"url": "https://soundcloud.com/arif-r-zgar"
+			}
+		],
+		"checked": false
+	},
+	{
+		"id": "cf123ee3",
+		"slug": "bianka-wandersleb-linke-th",
+		"election": {
+			"party": "linke",
+			"state": "th",
+			"list": 11,
+			"district": null,
+			"mandate": null,
+			"lead": false
+		},
+		"name": {
+			"titles": null,
+			"forename": "Bianka",
+			"surname": "Wandersleb",
+			"affix": null
+		},
+		"aliases": [
+			"bianka wandersleb"
+		],
+		"facts": {
+			"gender": "f",
+			"dateofbirth": "1959-06-16",
+			"placeofbirth": "Bad Frankenhausen",
+			"placeofresidence": "Torgau",
+			"occupation": null,
+			"maritalstatus": null,
+			"offspring": null,
+			"yearofbirth": 1959,
+			"rel": null
+		},
+		"photos": [],
+		"links": [
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/bianka.wandersleb"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/biwa59"
+			}
+		],
+		"checked": false
 	}
 ]
