@@ -672,6 +672,10 @@
 				"id": "108826898029"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/114388342542945992352"
+			},
+			{
 				"type": "profile",
 				"url": "http://www.brandenburg-cdu.de/index.php?ka=1&ska=profil&pid=51"
 			},
@@ -751,6 +755,11 @@
 			{
 				"type": "facebook",
 				"url": "https://www.facebook.com/jens.koeppen",
+				"id": "100002173148117"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100002173148117",
 				"id": "100002173148117"
 			},
 			{
@@ -960,6 +969,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/P/patzelt_martin/258842"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/martin.patzelt.1",
+				"id": "100001037191153"
+			},
+			{
 				"type": "profile",
 				"url": "http://www.brandenburg-cdu.de/index.php?ka=1&ska=profil&pid=53"
 			},
@@ -1111,6 +1125,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Jana_Schimke"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Jana_SchimkeMdB"
 			}
 		],
 		"checked": false
@@ -1183,6 +1201,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/schulzemdb",
 				"id": "205663176289275"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/SchulzeindenBundestag",
+				"id": "569656663096385"
 			},
 			{
 				"type": "profile",
@@ -1273,6 +1296,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/sebastiansteineke.Bundestagsabgeordneter",
 				"id": "139085289609798"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/108696516197227659910"
 			},
 			{
 				"type": "instagram",
@@ -1905,6 +1932,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/abaerbock/",
 				"id": "1675394899406675"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/annalena.baerbock",
+				"id": "668933385"
 			},
 			{
 				"type": "twitter",
@@ -2720,6 +2752,10 @@
 				"id": "185185478353375"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/105837870746054609886"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/norbert_mdb",
 				"id": "4265444913"
@@ -2872,6 +2908,10 @@
 				"id": "247923061984005"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/117851674225455827235"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/hpetzold",
 				"id": "377925526"
@@ -3009,6 +3049,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/T/tackmann_kirsten/259108"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116355866558028678564"
 			},
 			{
 				"type": "twitter",
@@ -5651,6 +5695,11 @@
 				"id": "942949079130982"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/janmarco.luczak",
+				"id": "100002025493194"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/jm_luczak",
 				"id": "22908417"
@@ -5801,6 +5850,11 @@
 				"id": "186227614874497"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/martin.patzold.39",
+				"id": "100006243343781"
+			},
+			{
 				"type": "wahlde",
 				"url": "http://www.wahl.de/politiker/cdu/martin-paetzold"
 			},
@@ -5871,6 +5925,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/cdu.schwarzer",
 				"id": "211367335556818"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/christina.schwarzer.37",
+				"id": "1065654044"
 			},
 			{
 				"type": "twitter",
@@ -5963,6 +6022,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Kai_Wegner"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Kai_Wegner7?key=0.0"
 			},
 			{
 				"type": "youtube",
@@ -6942,6 +7005,10 @@
 				"id": "1425265488"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Profile/fbNgcA-R5nGkrcVmpvNFKynyBQI8CmQ08Q18Oyx9acw"
+			},
+			{
 				"type": "website",
 				"url": "https://www.renate-kuenast.de/"
 			},
@@ -7107,6 +7174,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/M/mutlu_oezcan/259348"
 			},
 			{
+				"type": "linkedin",
+				"url": "https://de.linkedin.com/in/%c3%b6zcan-mutlu-01a27586"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/oezcanmutlu",
 				"id": "73088949"
@@ -7229,6 +7300,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/lisa.paus",
 				"id": "554919787966650"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/117807701079346410654"
 			},
 			{
 				"type": "twitter",
@@ -7680,6 +7755,10 @@
 				"id": "401708756602624"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/114641304175235661845"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/berlinliebich",
 				"id": "1065899292"
@@ -7764,6 +7843,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Gesine_Lötzsch"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCGOfu3HOhug0eyk8iPsgAGw"
 			}
 		],
 		"checked": false
@@ -8232,6 +8315,11 @@
 				"id": "1431932017036391"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/fritz.felgentreu.9",
+				"id": "100007062786605"
+			},
+			{
 				"type": "profile",
 				"url": "https://www.spd.berlin/wahl2017/kandidatinnen/fritz-felgentreu/"
 			},
@@ -8310,6 +8398,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/UteFinckhKramer",
 				"id": "148354465331097"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/ute.finckh",
+				"id": "1473346562"
 			},
 			{
 				"type": "profile",
@@ -8463,6 +8556,10 @@
 				"type": "twitter",
 				"url": "https://twitter.com/evahoegl",
 				"id": "35846585"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.studivz.net/Profile/5e4f47a0936f75a0"
 			},
 			{
 				"type": "website",
@@ -8670,6 +8767,11 @@
 				"id": "538735382836792"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/CanselBerlin",
+				"id": "1045016302"
+			},
+			{
 				"type": "profile",
 				"url": "https://www.spd.berlin/wahl2017/kandidatinnen/cansel-kiziltepe/"
 			},
@@ -8775,6 +8877,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Klaus_Mindrup"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCHuKfa0VvHOBXyDHuO5uNyw"
 			}
 		],
 		"checked": false
@@ -8997,6 +9103,11 @@
 				"id": "166707197044788"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/Matthias.Schmidt.Berlin",
+				"id": "100002312457109"
+			},
+			{
 				"type": "profile",
 				"url": "https://www.spd.berlin/wahl2017/kandidatinnen/matthias-schmidt/"
 			},
@@ -9101,6 +9212,10 @@
 			{
 				"type": "youtube",
 				"url": "https://www.youtube.com/user/schulzspd"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UC7jmKVA9B0dXJ2glWLsMzOg"
 			}
 		],
 		"checked": false
@@ -9219,6 +9334,10 @@
 				"id": "193146060704619"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/111182072636700959542"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/bettinahornhues",
 				"id": "275204467"
@@ -9297,6 +9416,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/ElisabethMotschmann",
 				"id": "123469994477140"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/e.motschmann",
+				"id": "100002440661573"
 			},
 			{
 				"type": "website",
@@ -11850,6 +11974,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/B/bilger_steffen/258230"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1677553739",
+				"id": "1677553739"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/steffenbilger",
 				"id": "23925041"
@@ -12561,6 +12690,10 @@
 				"id": "51752254"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Profile/f9c1531e480377a7"
+			},
+			{
 				"type": "website",
 				"url": "http://www.stefan-kaufmann.de/"
 			},
@@ -12945,6 +13078,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/KarlALamers",
 				"id": "239234639550868"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116829098778177063628"
 			},
 			{
 				"type": "website",
@@ -13688,6 +13825,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/schaeuble_wolfgang/259036"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Profile/zHQQnFp-LrXW_hTYdjnJ0JzJGNEzmGtpfShjt59QRy8"
+			},
+			{
 				"type": "website",
 				"url": "http://www.wolfgang-schaeuble.de/"
 			},
@@ -14162,6 +14303,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/IngoWellenreuther",
 				"id": "467097719983247"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/118125549321507798283"
 			},
 			{
 				"type": "twitter",
@@ -16413,6 +16558,10 @@
 				"id": "554205767973004"
 			},
 			{
+				"type": "flickr",
+				"url": "https://www.flickr.com/photos/kerstinandreae/"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/kerstinandreae",
 				"id": "41548943"
@@ -16730,6 +16879,10 @@
 				"id": "32323724"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Franziska-Brantner"
+			},
+			{
 				"type": "website",
 				"url": "http://www.franziska-brantner.eu/"
 			},
@@ -16814,6 +16967,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/agnieszkamdb",
 				"id": "169881576447003"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/agnieszka.brugger",
+				"id": "1482047970"
 			},
 			{
 				"type": "twitter",
@@ -17091,6 +17249,10 @@
 				"id": "52431948"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Harald-Ebner"
+			},
+			{
 				"type": "website",
 				"url": "http://www.harald-ebner.de/"
 			},
@@ -17287,6 +17449,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/matthias.gastel.1",
 				"id": "100001102271113"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/114353424066294344219"
 			},
 			{
 				"type": "twitter",
@@ -17648,6 +17814,11 @@
 				"id": "1053021454"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1053021454",
+				"id": "1053021454"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/babetteschefin",
 				"id": "474013625"
@@ -17775,6 +17946,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/ChrisKuehnTuebingen",
 				"id": "541119395918299"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/110318642333259833811"
 			},
 			{
 				"type": "twitter",
@@ -18048,6 +18223,10 @@
 			{
 				"type": "youtube",
 				"url": "http://www.youtube.com/user/beateonair"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCEZyfv3kmDzlYvNsgq4z4-g"
 			}
 		],
 		"checked": false
@@ -18164,6 +18343,10 @@
 				"type": "twitter",
 				"url": "https://twitter.com/cem_oezdemir",
 				"id": "19108766"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Profile/DKfdYMv2Ha-RJO99aHUqo1su5I13RqK9XnNkXHwzVsw"
 			},
 			{
 				"type": "website",
@@ -18385,6 +18568,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/gerhardschick",
 				"id": "455538147816890"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/115823488617692057811"
 			},
 			{
 				"type": "twitter",
@@ -19090,6 +19277,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/H/haensel_heike/258466"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/109827912951319988772"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/heikehaensel",
 				"id": "332264734"
@@ -19422,6 +19613,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/MdB-Richard-Pitterle-174137581751",
 				"id": "174137581751"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/richard.pitterle",
+				"id": "1042103878"
 			},
 			{
 				"type": "website",
@@ -19795,6 +19991,11 @@
 				"id": "1475998419282812"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/hbaehrens",
+				"id": "100005912141169"
+			},
+			{
 				"type": "wahlde",
 				"url": "http://www.wahl.de/politiker/spd/heike-baehrens"
 			},
@@ -19941,6 +20142,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Lothar_Binding"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Lothar_Binding?key=0.0"
 			}
 		],
 		"checked": false
@@ -20058,6 +20263,11 @@
 				"id": "295376017278501"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/lars.castellucci.5",
+				"id": "100008267170151"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/larscastellucci",
 				"id": "17469649"
@@ -20142,6 +20352,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/D/drobinski_weiss_elvira/258268"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100003587850149",
+				"id": "100003587850149"
+			},
+			{
 				"type": "website",
 				"url": "http://www.elvira-drobinski-weiss.de/"
 			},
@@ -20213,6 +20428,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/EskenSaskia",
 				"id": "410100252391597"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/saskiaesken",
+				"id": "100003394512355"
 			},
 			{
 				"type": "twitter",
@@ -20487,6 +20707,11 @@
 				"id": "53732354560"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/melanie.ruth.549",
+				"id": "100006243766370"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/josip_juratovic",
 				"id": "738731811380076544"
@@ -20615,6 +20840,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/GabrieleKatzmarek",
 				"id": "315850548515268"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100006037262587",
+				"id": "100006037262587"
 			},
 			{
 				"type": "twitter",
@@ -20752,6 +20982,10 @@
 				"id": "1413508688910212"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/102470842251030665131"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/langemdb",
 				"id": "328939758"
@@ -20884,6 +21118,11 @@
 				"id": "499836743410538"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/katja.buro",
+				"id": "100007760776951"
+			},
+			{
 				"type": "website",
 				"url": "http://www.katja-mast.de/"
 			},
@@ -20958,6 +21197,11 @@
 				"id": "1169663413106412"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1341673095",
+				"id": "1341673095"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/hildemattheis",
 				"id": "115614153"
@@ -21029,6 +21273,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/stefan.rebmann.96",
 				"id": "853009784765304"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/112248915930845707282"
 			},
 			{
 				"type": "twitter",
@@ -21107,6 +21355,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/martin.rosemann.5",
 				"id": "419654778154419"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/103133556938866156841"
 			},
 			{
 				"type": "wahlde",
@@ -21201,6 +21453,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Annette_Sawade"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Annette_Sawade"
 			}
 		],
 		"checked": false
@@ -21266,6 +21522,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/dorothee.schlegel.spd",
 				"id": "215397765268761"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/100007050794259311256"
 			},
 			{
 				"type": "website",
@@ -21472,6 +21732,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/V/vogt_ute/259144"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/118089570368280321862"
 			},
 			{
 				"type": "twitter",
@@ -22198,6 +22462,10 @@
 				"id": "158046757668882"
 			},
 			{
+				"type": "tumblr",
+				"url": "http://diealbsteigerin.tumblr.com/"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/diealbsteigerin",
 				"id": "429357796"
@@ -22276,6 +22544,11 @@
 				"id": "233549693475148"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/artur.auernhammer",
+				"id": "100001290716811"
+			},
+			{
 				"type": "website",
 				"url": "https://www.artur-auernhammer.de/"
 			},
@@ -22343,6 +22616,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/DorotheeBaerMdB",
 				"id": "84588674291"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/107008966493282050366"
 			},
 			{
 				"type": "twitter",
@@ -22566,6 +22843,10 @@
 				"id": "62772136958"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/113397298354149407144"
+			},
+			{
 				"type": "website",
 				"url": "http://www.alexander-dobrindt.de/"
 			},
@@ -22637,6 +22918,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Hansjoerg.Durz",
 				"id": "608651842489093"
+			},
+			{
+				"type": "instagram",
+				"url": "https://instagram.com/hansjoerg_durz/"
 			},
 			{
 				"type": "wahlde",
@@ -22896,6 +23181,11 @@
 				"id": "1454097914816029"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/bernd.fabritius.7",
+				"id": "100000289423517"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/berndfabritius",
 				"id": "493229926"
@@ -23045,6 +23335,11 @@
 				"id": "438010156326906"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100008198103721",
+				"id": "100008198103721"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/diefreudenstein",
 				"id": "704024372940513280"
@@ -23125,6 +23420,10 @@
 				"id": "105589846177501"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/109965049181547529485"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/hpfriedrichcsu",
 				"id": "708224250885349376"
@@ -23202,6 +23501,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/michael.frieser.csu",
 				"id": "1636686689918879"
+			},
+			{
+				"type": "linkedin",
+				"url": "https://www.linkedin.com/in/michael-frieser-64942198"
 			},
 			{
 				"type": "twitter",
@@ -23489,6 +23792,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/florian.hahn.3766",
 				"id": "291644800982357"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/103770112726309196446"
 			},
 			{
 				"type": "twitter",
@@ -24069,6 +24376,10 @@
 				"id": "401006200007303"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/104178354379204464852"
+			},
+			{
 				"type": "website",
 				"url": "http://www.silke-launert.de/"
 			},
@@ -24158,6 +24469,11 @@
 			{
 				"type": "facebook",
 				"url": "https://www.facebook.com/paul.lehrieder",
+				"id": "100002291062827"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100002291062827",
 				"id": "100002291062827"
 			},
 			{
@@ -24279,6 +24595,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/andrea.lindholz",
 				"id": "409561472408666"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100003798205498",
+				"id": "100003798205498"
 			},
 			{
 				"type": "twitter",
@@ -24806,6 +25127,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Gerd_Müller_(CSU)"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Gerd_Mueller107"
 			}
 		],
 		"checked": false
@@ -24880,6 +25205,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/smuellermdb",
 				"id": "1501825416754537"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100007993937061",
+				"id": "100007993937061"
 			},
 			{
 				"type": "website",
@@ -25046,6 +25376,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Julia_Obermeier"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Julia_Bartz"
 			}
 		],
 		"checked": false
@@ -25260,6 +25594,10 @@
 				"id": "111747124676"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/peter-ramsauer"
+			},
+			{
 				"type": "website",
 				"url": "http://www.peter-ramsauer.de/"
 			},
@@ -25438,6 +25776,10 @@
 				"id": "127608807419079"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/102960542039085996531"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/andischeuer",
 				"id": "50315139"
@@ -25595,6 +25937,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/schmidt_christian/258970"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/christian.schmidt.fuerth",
+				"id": "100000801782979"
 			},
 			{
 				"type": "website",
@@ -25788,6 +26135,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/silberhorn_thomas/258958"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/102443026641383298611"
 			},
 			{
 				"type": "website",
@@ -26039,6 +26390,10 @@
 				"id": "249601011844044"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/108412029680603947390"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/volkerullrich",
 				"id": "28446356"
@@ -26158,6 +26513,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/anjaweisgerber",
 				"id": "123317111021370"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/107830721379545734244"
 			},
 			{
 				"type": "twitter",
@@ -26423,6 +26782,10 @@
 				"id": "146147165545321"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/100201868603045795284"
+			},
+			{
 				"type": "website",
 				"url": "http://emmi-zeulner.de/"
 			},
@@ -26530,6 +26893,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/mdb.gudrun.zollner",
 				"id": "711431662229760"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/gudrun.zollner",
+				"id": "100000220025230"
 			},
 			{
 				"type": "twitter",
@@ -28344,6 +28712,10 @@
 				"id": "1631033011"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/117671201471764410394"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/djanecek",
 				"id": "52024480"
@@ -28425,6 +28797,11 @@
 			{
 				"type": "facebook",
 				"url": "https://www.facebook.com/uwe.kekeritz.3",
+				"id": "1042448494"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1042448494",
 				"id": "1042448494"
 			},
 			{
@@ -28947,6 +29324,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Roth",
 				"id": "80635590663"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116623723512670996958"
 			},
 			{
 				"type": "website",
@@ -29801,6 +30182,11 @@
 				"url": "https://www.facebook.com/beate.walterrosenheimer"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1817642339",
+				"id": "1817642339"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/beatewaro",
 				"id": "47049428"
@@ -30121,6 +30507,10 @@
 				"id": "86704161022"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/116132491424028198036"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/ernst_klaus",
 				"id": "64994645"
@@ -30378,6 +30768,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/NicoleGohlkeMdB",
 				"id": "560137777526640"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/nicole.gohlke.16",
+				"id": "1497953701"
 			},
 			{
 				"type": "twitter",
@@ -30904,6 +31299,10 @@
 				"id": "1406474099"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/114208247543520136829"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/haraldweinberg",
 				"id": "625642009"
@@ -31170,6 +31569,11 @@
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
 			{
+				"type": "twitter",
+				"url": "https://twitter.com/MdB_Ulrike_Bahr",
+				"id": "724565991104110592"
+			},
+			{
 				"type": "website",
 				"url": "https://ulrike-bahr.de/"
 			},
@@ -31341,6 +31745,11 @@
 				"id": "257550241046190"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/karlheinz.brunner.7",
+				"id": "100011469312072"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -31438,6 +31847,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/B/burkert_martin/258142"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100002720970717",
+				"id": "100002720970717"
 			},
 			{
 				"type": "profile",
@@ -31625,6 +32039,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/SabineDittmarMdB",
 				"id": "138187167349"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/Sabine.Dittmar.privat",
+				"id": "100000351586881"
 			},
 			{
 				"type": "profile",
@@ -31819,6 +32238,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/F/flisek_christian/258360"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/108715535921348262410"
 			},
 			{
 				"type": "profile",
@@ -32072,6 +32495,10 @@
 				"id": "199480603522909"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/102165502519354733441"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -32153,6 +32580,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Rita.Hagl.Kehl",
 				"id": "932815056748552"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/rita.hagl",
+				"id": "100000877028719"
 			},
 			{
 				"type": "profile",
@@ -32373,6 +32805,11 @@
 				"id": "133430763472093"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/gabriela.heinrich.9",
+				"id": "133430763472093"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -32555,6 +32992,10 @@
 				"id": "183976541729215"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/108427540013212058597"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -32716,6 +33157,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/anette.kramme.bayreuth",
 				"id": "886463838049032"
+			},
+			{
+				"type": "linkedin",
+				"url": "https://de.linkedin.com/in/anette-kramme-bb428ab6"
 			},
 			{
 				"type": "profile",
@@ -33116,6 +33561,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/P/post_florian/259286"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/100835420007195742875"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -33228,6 +33677,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/P/pronold_florian/258832"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/106623705110218056623"
 			},
 			{
 				"type": "profile",
@@ -33413,6 +33866,11 @@
 				"id": "701570419910290"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/bernd.rutzel",
+				"id": "100006445203370"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -33492,6 +33950,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/schieder_marianne/259050"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/MarianneSchieder",
+				"id": "728011090672695"
 			},
 			{
 				"type": "profile",
@@ -33757,6 +34220,10 @@
 				"id": "351897668271152"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/105315846141421141316"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -33849,6 +34316,11 @@
 				"type": "twitter",
 				"url": "https://twitter.com/schwarz_mdb",
 				"id": "2226815116"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/schwarz_spd",
+				"id": "53617577"
 			},
 			{
 				"type": "website",
@@ -33995,6 +34467,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Martina_Stamm-Fibich"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Martina_StammFibich"
 			}
 		],
 		"checked": false
@@ -34077,6 +34553,11 @@
 				"id": "502163379819352"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/c.tausend",
+				"id": "1266170616"
+			},
+			{
 				"type": "profile",
 				"url": "https://bayernspd.de/workspace/media/static/lvv-kandidatinnenvorstellung-2-58480af7ea4e8.pdf"
 			},
@@ -34157,6 +34638,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/carstentraegermdb",
 				"id": "568297056577159"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/115578665320341249640"
 			},
 			{
 				"type": "profile",
@@ -35229,6 +35714,10 @@
 				"id": "61457331088"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/107195567487133710169"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/HBraun",
 				"id": "19108071"
@@ -35456,6 +35945,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Dr.Stefan.Heck",
 				"id": "1442170879331980"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/stefan.heck.10",
+				"id": "1151105546"
 			},
 			{
 				"type": "twitter",
@@ -35768,6 +36262,11 @@
 				"id": "317917298338162"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/markus.koob.1",
+				"id": "1527324774"
+			},
+			{
 				"type": "website",
 				"url": "http://www.markus-koob.de/"
 			},
@@ -35944,6 +36443,11 @@
 			{
 				"type": "facebook",
 				"url": "https://www.facebook.com/patricia.lips.3",
+				"id": "100002911142278"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100002911142278",
 				"id": "100002911142278"
 			},
 			{
@@ -36573,6 +37077,11 @@
 				"id": "149105241935587"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/bernd.siebert.923",
+				"id": "100006041551026"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/berndsiebert",
 				"id": "24674518"
@@ -36797,6 +37306,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/tauber.peter",
 				"id": "154308617994137"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/104865241250687195922"
 			},
 			{
 				"type": "twitter",
@@ -37305,6 +37818,10 @@
 				"id": "475303929184653"
 			},
 			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/profile/view?id=193720658"
+			},
+			{
 				"type": "website",
 				"url": "http://www.klaus-peter-willsch.de/"
 			},
@@ -37386,6 +37903,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/drmatthiaszimmer",
 				"id": "435278906568260"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/118168684005171288140"
 			},
 			{
 				"type": "twitter",
@@ -38828,6 +39349,10 @@
 				"id": "335200473236919"
 			},
 			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/profile/view?id=116492127"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/nouripour",
 				"id": "16674128"
@@ -38990,6 +39515,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/wolfgang.strengmannkuhn",
 				"id": "187802098063534"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/wolfgang.strengmannkuhn.7",
+				"id": "100006104718016"
 			},
 			{
 				"type": "twitter",
@@ -39174,6 +39704,10 @@
 				"type": "twitter",
 				"url": "https://twitter.com/ch_buchholz",
 				"id": "426403057"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Christine-Buchholz"
 			},
 			{
 				"type": "website",
@@ -39591,6 +40125,11 @@
 				"id": "209125975877005"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/sabine.leidig.10",
+				"id": "100004030071470"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/sabineleidig",
 				"id": "257461232"
@@ -39840,6 +40379,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/soerenbartol",
 				"id": "1395797837300016"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/117246650630189411542"
 			},
 			{
 				"type": "twitter",
@@ -40327,6 +40870,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/F/franke_edgar/258352"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/101525497552371721520"
+			},
+			{
 				"type": "website",
 				"url": "http://www.edgarfranke.de/"
 			},
@@ -40713,6 +41260,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/K/koempel_birgit/258610"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/birgit.kompel",
+				"id": "622993879"
+			},
+			{
 				"type": "website",
 				"url": "http://www.birgit-koempel.de/"
 			},
@@ -40902,6 +41454,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Christine_Lambrecht"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCU1rnXkTZQCWc1fwADNNmQg"
 			}
 		],
 		"checked": false
@@ -40966,6 +41522,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/BettinaMuellerSPD",
 				"id": "306664909442738"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/Bettina.E.Mueller",
+				"id": "100004730046913"
 			},
 			{
 				"type": "twitter",
@@ -41089,6 +41650,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/ulli.nissen",
 				"id": "298030170391625"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/115393705556003933869"
 			},
 			{
 				"type": "twitter",
@@ -41284,6 +41849,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/R/raabe_sascha/258910"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/102828069764399697533"
+			},
+			{
 				"type": "website",
 				"url": "http://www.sascha-raabe.de/"
 			},
@@ -41343,6 +41912,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/R/rabanus_martin/258890"
+			},
+			{
+				"type": "linkedin",
+				"url": "https://de.linkedin.com/in/martin-rabanus-a357907b"
 			},
 			{
 				"type": "twitter",
@@ -41523,6 +42096,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Michael_Roth_(Politiker)"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCCyHE1o8FdozF3Zg_WsMa-g"
 			}
 		],
 		"checked": false
@@ -41741,6 +42318,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/schabedoth",
 				"id": "488796684506891"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100000017323594",
+				"id": "100000017323594"
 			},
 			{
 				"type": "website",
@@ -42256,6 +42838,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/JensZimmermannHessen",
 				"id": "315208841871484"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/jens.zi",
+				"id": "507936872"
 			},
 			{
 				"type": "twitter",
@@ -42813,6 +43400,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Herlind_Gundelach"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCPzHrhKFSZBYNP1E2_jLeYA"
 			}
 		],
 		"checked": false
@@ -42878,6 +43469,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Kruse.Hamburg.Eimsbuettel",
 				"id": "101773823336428"
+			},
+			{
+				"type": "instagram",
+				"url": "https://instagram.com/ruedkruse/"
 			},
 			{
 				"type": "twitter",
@@ -44214,6 +44809,10 @@
 				"id": "75020759072"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/107661205834883125143"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/manuelsarrazin",
 				"id": "17922403"
@@ -44771,6 +45370,11 @@
 				"id": "601163706652420"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/niels.annen",
+				"id": "601163706652420"
+			},
+			{
 				"type": "instagram",
 				"url": "https://www.instagram.com/nielsannen/"
 			},
@@ -44860,6 +45464,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/mbartke",
 				"id": "175913025887969"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/101716594192827865906"
 			},
 			{
 				"type": "twitter",
@@ -44997,6 +45605,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Metin-Hakverdi-178872845468327/",
 				"id": "178872845468327"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116718384525409641293"
 			},
 			{
 				"type": "instagram",
@@ -45287,6 +45899,10 @@
 				"type": "twitter",
 				"url": "https://twitter.com/oezoguz",
 				"id": "83342791"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Aydan-Oezoguz"
 			},
 			{
 				"type": "website",
@@ -46152,6 +46768,10 @@
 				"id": "59788447049"
 			},
 			{
+				"type": "instagram",
+				"url": "https://instagram.com/bundeskanzlerin/"
+			},
+			{
 				"type": "website",
 				"url": "https://www.angela-merkel.de/"
 			},
@@ -46225,6 +46845,10 @@
 				"id": "1019710724716909"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/113862221613723425187"
+			},
+			{
 				"type": "website",
 				"url": "https://www.dietrichmonstadt.de/"
 			},
@@ -46291,6 +46915,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/R/rehberg_eckhardt/258878"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/eckhardt.rehberg",
+				"id": "100000044384885"
 			},
 			{
 				"type": "twitter",
@@ -46451,6 +47080,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Karin.Strenz",
 				"id": "411935132202922"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/KarinStrenz",
+				"id": "66111283"
 			},
 			{
 				"type": "wahlde",
@@ -47419,6 +48053,11 @@
 				"id": "135751919841485"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100002624913014",
+				"id": "100002624913014"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/dietmarbartsch",
 				"id": "2320519958"
@@ -47500,6 +48139,11 @@
 			{
 				"type": "facebook",
 				"url": "https://www.facebook.com/Heidrun-Bluhm-157199237764392/",
+				"id": "157199237764392"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/pages/find/157199237764392",
 				"id": "157199237764392"
 			},
 			{
@@ -47922,6 +48566,10 @@
 				"id": "720595767983984"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/112055833097731957508"
+			},
+			{
 				"type": "website",
 				"url": "http://www.frank-junge.de/"
 			},
@@ -48224,6 +48872,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/sonja.steffen",
 				"id": "100000021001560"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/106084960407249492061"
 			},
 			{
 				"type": "twitter",
@@ -49781,6 +50433,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/A/albani_stephan/258132"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/stephan.albani",
+				"id": "100004434906696"
+			},
+			{
 				"type": "website",
 				"url": "http://stephan-albani.de/"
 			},
@@ -49852,6 +50509,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Beermann.Maik",
 				"id": "377947178928550"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116413464211881764937"
 			},
 			{
 				"type": "twitter",
@@ -49930,6 +50591,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/GemeinsamFuerAndre",
 				"id": "315321281924550"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/andre.berghegger",
+				"id": "100004507140132"
 			},
 			{
 				"type": "website",
@@ -50019,6 +50685,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Ute_Bertram"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UC3Du2NqCQJD31yiEaEWGMTg"
 			}
 		],
 		"checked": false
@@ -50150,6 +50820,10 @@
 				"id": "175211392516482"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/104177300075817825095"
+			},
+			{
 				"type": "website",
 				"url": "http://www.gitta-connemann.de/"
 			},
@@ -50216,6 +50890,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/F/ferlemann_enak/258356"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/108149825608237426695"
 			},
 			{
 				"type": "website",
@@ -50312,6 +50990,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Maria_Flachsbarth"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Maria_Flachsbarth?key=0.0"
 			}
 		],
 		"checked": false
@@ -50460,6 +51142,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/G/grotelueschen_astrid/258422"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/astrid.groteluschen",
+				"id": "100005349309275"
+			},
+			{
 				"type": "website",
 				"url": "http://www.astrid-grotelueschen.de/"
 			},
@@ -50534,6 +51221,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Oliver_Grundmann"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Oliver_Grundmann"
 			}
 		],
 		"checked": false
@@ -50594,6 +51285,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Fritz-G%C3%BCntzler-MdB-621011257931252",
 				"id": "621011257931252"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/fritz.guntzler",
+				"id": "100000563767978"
 			},
 			{
 				"type": "wahlde",
@@ -50669,6 +51365,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/H/-/478284"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100011971000847",
+				"id": "100011971000847"
 			},
 			{
 				"type": "wahlde",
@@ -50847,6 +51548,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Hendrik_Hoppenstedt"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Hendrik_Hoppenstedt"
 			}
 		],
 		"checked": false
@@ -50925,6 +51630,11 @@
 				"id": "1638799283050074"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/hanswerner.kammer",
+				"id": "100004844953496"
+			},
+			{
 				"type": "website",
 				"url": "http://www.hans-werner-kammer.de/"
 			},
@@ -50996,6 +51706,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/axel.knoerig",
 				"id": "79647730686"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1195017071",
+				"id": "1195017071"
 			},
 			{
 				"type": "website",
@@ -51150,6 +51865,11 @@
 				"id": "1027805840692678"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/roykuehne.nom",
+				"id": "100003486996011"
+			},
+			{
 				"type": "website",
 				"url": "http://www.dr-roy-kuehne.de/"
 			},
@@ -51224,6 +51944,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Günter_Lach"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Guenter_Lach?key=0.0"
 			}
 		],
 		"checked": false
@@ -51284,6 +52008,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/L/lagosky_uwe/259330"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/SalzgitterWolfenbuettel",
+				"id": "712657798899585"
 			},
 			{
 				"type": "website",
@@ -51526,6 +52255,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/andreas.mattfeldt",
 				"id": "1533503396"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/117319487010372918639"
 			},
 			{
 				"type": "website",
@@ -51860,6 +52593,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/O/otte_henning/258822"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/henning.otte.12",
+				"id": "100000131878614"
+			},
+			{
 				"type": "website",
 				"url": "http://www.henning-otte.de/"
 			},
@@ -51931,6 +52669,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/ipahlmann",
 				"id": "169527093203108"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/ingrid.pahlmann",
+				"id": "100004317216075"
 			},
 			{
 				"type": "website",
@@ -52006,6 +52749,11 @@
 				"id": "100000036508888"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100000036508888",
+				"id": "100000036508888"
+			},
+			{
 				"type": "website",
 				"url": "http://www.pols-cdu.de/"
 			},
@@ -52076,6 +52824,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/R/-/426590"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/kathrin.roesel",
+				"id": "1217889546"
 			},
 			{
 				"type": "wahlde",
@@ -52157,6 +52910,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/albertstegemann1",
 				"id": "1400602380214173"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/111271534687517377003"
 			},
 			{
 				"type": "wahlde",
@@ -52274,6 +53031,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/vietz.michael",
 				"id": "293007130807855"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/112384527401334610831"
 			},
 			{
 				"type": "website",
@@ -52495,6 +53256,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/BarbaraWoltmannMdB",
 				"id": "1426250050950137"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/barbara.woltmann.1",
+				"id": "100007852694281"
 			},
 			{
 				"type": "wahlde",
@@ -54188,6 +54954,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/K/keul_katja/258648"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/111741202689530941990"
+			},
+			{
 				"type": "website",
 				"url": "https://katja-keul.de/"
 			},
@@ -54270,6 +55040,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/pages/Sven-Christian-Kindler/51181425698",
 				"id": "51181425698"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/svenchristian.kindler",
+				"id": "600568433"
 			},
 			{
 				"type": "flickr",
@@ -54444,6 +55219,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/petermeiwald.de",
 				"id": "483647768376275"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/110570334542679751963"
 			},
 			{
 				"type": "twitter",
@@ -54901,6 +55680,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/jul.verlinden",
 				"id": "528410977196029"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/110360376668222477479"
 			},
 			{
 				"type": "website",
@@ -55693,6 +56476,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/K/krellmann_jutta/258584"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/102598767855629424838"
+			},
+			{
 				"type": "website",
 				"url": "http://jutta-krellmann.de/"
 			},
@@ -56080,6 +56867,11 @@
 				"id": "247411188757060"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/pia.zimmermann.7169",
+				"id": "100007785690018"
+			},
+			{
 				"type": "wahlde",
 				"url": "https://www.wahl.de/politiker/die-linke/pia-zimmermann"
 			},
@@ -56449,6 +57241,11 @@
 				"id": "411771882251946"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/daniela.deridder",
+				"id": "1342208740"
+			},
+			{
 				"type": "website",
 				"url": "http://daniela-de-ridder.de/"
 			},
@@ -56685,6 +57482,10 @@
 				"id": "569832889"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Profile/rqsOJFRWYmXWTnk_9xT3JE4nKjnWNipA4QTlAQLMBJk"
+			},
+			{
 				"type": "website",
 				"url": "https://sigmar-gabriel.de/"
 			},
@@ -56800,6 +57601,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/mdb.hubertusheil",
 				"id": "63215533503"
+			},
+			{
+				"type": "flickr",
+				"url": "https://www.flickr.com/photos/hubertus_heil/"
 			},
 			{
 				"type": "twitter",
@@ -56985,6 +57790,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/jantz.christina",
 				"id": "419314404818772"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/104484344812504674377"
 			},
 			{
 				"type": "twitter",
@@ -57243,6 +58052,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/klingbeil.lars",
 				"id": "355456486093"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116503454070157395611"
 			},
 			{
 				"type": "twitter",
@@ -57543,6 +58356,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/L/lotze_hiltrud/258670"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/hiltrud.lotze.3",
+				"id": "100000980674630"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/hiltrudlotze",
 				"id": "38272947"
@@ -57619,6 +58437,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/luehmannkirsten",
 				"id": "312095768993159"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/115337788506823177101"
 			},
 			{
 				"type": "website",
@@ -57747,6 +58569,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Caren.Marks",
 				"id": "110161394624"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/111105591089457359807"
 			},
 			{
 				"type": "website",
@@ -57939,6 +58765,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Matthias_Miersch"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCP8ML2f4e_OKXDLEPt_IdPw"
 			}
 		],
 		"checked": false
@@ -57999,6 +58829,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/susanne.mittag.9",
 				"id": "461296367285910"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/101533127823394862986"
 			},
 			{
 				"type": "website",
@@ -58329,6 +59163,11 @@
 				"id": "269475816560244"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/markus.paschke.77",
+				"id": "100004389125137"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/markuspaschke",
 				"id": "3163499392"
@@ -58487,6 +59326,10 @@
 				"id": "89283499523"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/115648686725129247234"
+			},
+			{
 				"type": "website",
 				"url": "http://www.carola-reimann.de/"
 			},
@@ -58594,6 +59437,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/R/rohde_dennis/259284"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/101594549977601709297"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/dennisrohde",
 				"id": "18160122"
@@ -58674,6 +59521,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/johann.saathoff.52",
 				"id": "100000048766655"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/115061141038628921005"
 			},
 			{
 				"type": "wahlde",
@@ -59032,6 +59883,11 @@
 				"id": "180621222095692"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/rainerspiering",
+				"id": "1238228750"
+			},
+			{
 				"type": "website",
 				"url": "http://www.rainer-spiering.de/"
 			},
@@ -59103,6 +59959,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/svenjastadlerspd",
 				"id": "340332092731147"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/113233385896374524515"
 			},
 			{
 				"type": "twitter",
@@ -59190,6 +60050,10 @@
 				"type": "twitter",
 				"url": "https://twitter.com/kerstin_tack",
 				"id": "37733252"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.studivz.net/Profile/4c908f40d2e22efa"
 			},
 			{
 				"type": "website",
@@ -59339,6 +60203,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/bestphal",
 				"id": "125400970980780"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/103344211501826076739"
 			},
 			{
 				"type": "website",
@@ -60290,6 +61158,10 @@
 				"id": "612601668757620"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/117552628922989347763"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/peterbeyercdu",
 				"id": "69814084"
@@ -60414,6 +61286,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/mdb.helmut.brandt",
 				"id": "404488589602913"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Profile/a86164e7a2e6d83c"
 			},
 			{
 				"type": "website",
@@ -60631,6 +61507,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Ralph_Brinkhaus"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Ralph_Brinkhaus"
 			}
 		],
 		"checked": false
@@ -60920,6 +61800,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/JuttaEckenbachMdB",
 				"id": "1434364003471931"
+			},
+			{
+				"type": "twitter",
+				"url": "https://twitter.com/JEckenbach",
+				"id": "3332437210"
 			},
 			{
 				"type": "website",
@@ -61383,6 +62268,10 @@
 				"id": "90203217294"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/117336121479185189908"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/juergenhardt",
 				"id": "38467606"
@@ -61463,6 +62352,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/matthiashauer.cdu",
 				"id": "126360456507"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/matthias.hauer.5",
+				"id": "1766974875"
 			},
 			{
 				"type": "twitter",
@@ -61548,6 +62442,10 @@
 			{
 				"type": "xing",
 				"url": "https://www.xing.com/profile/Matthias_Heider8"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Matthias_Heider8?key=0.0"
 			}
 		],
 		"checked": false
@@ -61680,6 +62578,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/HHirte",
 				"id": "132849650207840"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/heribert.hirte",
+				"id": "100006575592632"
 			},
 			{
 				"type": "twitter",
@@ -61840,6 +62743,11 @@
 				"id": "2219020651655436"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/mathias.hoschel",
+				"id": "100001563888379"
+			},
+			{
 				"type": "wahlde",
 				"url": "https://www.wahl.de/politiker/cdu/mathias-hoeschel"
 			},
@@ -61991,6 +62899,10 @@
 				"id": "369544409818448"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/108179226763411704021"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/tj_tweets",
 				"id": "37105136"
@@ -62069,6 +62981,10 @@
 				"id": "241534199319821"
 			},
 			{
+				"type": "instagram",
+				"url": "https://instagram.com/sylviajoerrissen/"
+			},
+			{
 				"type": "website",
 				"url": "http://www.sylvia-joerrissen.de/"
 			},
@@ -62135,6 +63051,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/steffen.kanitz",
 				"id": "1416610568571045"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/steffen.kanitz.5",
+				"id": "100007985620312"
 			},
 			{
 				"type": "twitter",
@@ -62238,6 +63159,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Anja_Karliczek"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Anja_Karliczek"
 			}
 		],
 		"checked": false
@@ -62345,6 +63270,11 @@
 				"id": "100005099644388"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/groups/147537418735029",
+				"id": "147537418735029"
+			},
+			{
 				"type": "wahlde",
 				"url": "https://www.wahl.de/politiker/cdu/georg-kippels"
 			},
@@ -62419,11 +63349,11 @@
 			},
 			{
 				"type": "agw",
-				"url": "http://www.abgeordnetenwatch.de/volkmar_klein-778-78253.html"
+				"url": "http://www.abgeordnetenwatch.de/volkmar_klein-1031-70996.html"
 			},
 			{
 				"type": "agw",
-				"url": "http://www.abgeordnetenwatch.de/volkmar_klein-1031-70996.html"
+				"url": "http://www.abgeordnetenwatch.de/volkmar_klein-778-78253.html"
 			},
 			{
 				"type": "bundestag",
@@ -62440,8 +63370,9 @@
 				"id": "72709330562"
 			},
 			{
-				"type": "website",
-				"url": "http://volkmarklein.de/"
+				"type": "facebook",
+				"url": "https://www.facebook.com/volkmar.klein",
+				"id": "1116310395"
 			},
 			{
 				"type": "website",
@@ -62553,6 +63484,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/gunter.krings.cdu",
 				"id": "400578453368061"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.studivz.net/Profile/fca8300ef001a302"
 			},
 			{
 				"type": "website",
@@ -62771,6 +63706,11 @@
 				"id": "344243725688371"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/clau.dia.332345",
+				"id": "100001877773539"
+			},
+			{
 				"type": "website",
 				"url": "https://www.luecking-michel.de/"
 			},
@@ -62841,6 +63781,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/M/mahlberg_thomas/259338"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/groups/315884788556304/",
+				"id": "315884788556304"
 			},
 			{
 				"type": "website",
@@ -62931,6 +63876,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Gisela_Manderla"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Gisela_Manderla"
 			}
 		],
 		"checked": false
@@ -63279,6 +64228,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/N/noll_michaela/258806"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/114739326115198007453"
+			},
+			{
 				"type": "website",
 				"url": "http://www.michaela-noll.de/"
 			},
@@ -63421,6 +64374,11 @@
 				"id": "480535868644583"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/wilfried.oellers",
+				"id": "100002748006084"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/wilfriedoellers",
 				"id": "906847944"
@@ -63492,6 +64450,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/timostermann.de",
 				"id": "199709100162943"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/tim.ostermann.73",
+				"id": "1290580134"
 			},
 			{
 				"type": "twitter",
@@ -63572,6 +64535,10 @@
 				"id": "640875249313244"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/107787061645229868568"
+			},
+			{
 				"type": "website",
 				"url": "http://sylvia-pantel.de/"
 			},
@@ -63643,6 +64610,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/thomas.rachel.dueren",
 				"id": "671477766298810"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/thomas.rachel.35",
+				"id": "100008537378456"
 			},
 			{
 				"type": "website",
@@ -63717,6 +64689,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/KerstinRadomskiMdB",
 				"id": "55254653725"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/KerstinRadomski",
+				"id": "1653217779"
 			},
 			{
 				"type": "wahlde",
@@ -64084,6 +65061,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/detlef.seif.1",
 				"id": "100003154220384"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/103711838082426565201"
 			},
 			{
 				"type": "website",
@@ -64548,6 +65529,11 @@
 				"id": "339337802864627"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/pages/find/339337802864627",
+				"id": "339337802864627"
+			},
+			{
 				"type": "wahlde",
 				"url": "https://www.wahl.de/politiker/cdu/astrid-timmermann-fechter"
 			},
@@ -64756,6 +65742,11 @@
 				"id": "412185902235002"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/sven.volmering",
+				"id": "1298951752"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/svenvolmering",
 				"id": "332698790"
@@ -64912,6 +65903,10 @@
 			{
 				"type": "website",
 				"url": "http://www.wange-paderborn.de/"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/karlheinz_wange"
 			}
 		],
 		"checked": false
@@ -65102,6 +66097,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Elisabeth.WinkelmeierBecker",
 				"id": "121895396276"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/elisabeth-winkelmeier-becker"
 			},
 			{
 				"type": "website",
@@ -68516,6 +69515,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/D/droege_katharina/258270"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/katharina.droege",
+				"id": "1137055491"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/katdro",
 				"id": "15722010"
@@ -68599,6 +69603,10 @@
 				"id": "93711056469"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/114495502643097276802"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/kaigehring",
 				"id": "110368456"
@@ -68679,6 +69687,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/britta.hasselmann",
 				"id": "230695653794643"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/110898188488065926134"
 			},
 			{
 				"type": "twitter",
@@ -68909,6 +69921,10 @@
 				"id": "341816569252157"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/100480189212939664078"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/oliver_krischer",
 				"id": "88630242"
@@ -69128,6 +70144,11 @@
 				"id": "196359297238038"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/irene.mihalic",
+				"id": "1213693052"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/irenemihalic",
 				"id": "143000381"
@@ -69205,6 +70226,11 @@
 				"id": "273747032417"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/pages/find/273747032417",
+				"id": "273747032417"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/fostendorff",
 				"id": "862714045"
@@ -69273,6 +70299,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/ulleschauwsmdb",
 				"id": "386377278159647"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/104459337732569633341"
 			},
 			{
 				"type": "twitter",
@@ -69375,6 +70405,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Frithjof_Schmidt"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCICoBKRcuVfdxTI9FoAZfmg"
 			}
 		],
 		"checked": false
@@ -69669,6 +70703,10 @@
 				"id": "100004178080467"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/115968036764750663478"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/mwbirkwald",
 				"id": "748851762"
@@ -69925,6 +70963,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Sevim-Dagdelen-1753343008226103",
 				"id": "1753343008226103"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=656086313",
+				"id": "656086313"
 			},
 			{
 				"type": "twitter",
@@ -70277,6 +71320,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Andrej_Hunko"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCtz3OXOONMnbBVP6pvXUzUw"
 			}
 		],
 		"checked": false
@@ -70668,6 +71715,10 @@
 				"id": "176096052587039"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/106920476231101932931"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/niemamovassat",
 				"id": "111054843"
@@ -71034,6 +72085,10 @@
 				"id": "563753786980536"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/112686340661029180943"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/voglerk",
 				"id": "21287514"
@@ -71325,6 +72380,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/A/arndt_brauer_ingrid/258144"
 			},
 			{
+				"type": "vz",
+				"url": "http://www.studivz.net/IngridArndtBrauer"
+			},
+			{
 				"type": "wahlde",
 				"url": "https://www.wahl.de/politiker/spd/ingrid-arndt-brauer"
 			},
@@ -71401,6 +72460,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Bundestag2017",
 				"id": "245720595861963"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/bettina.bahrlosse",
+				"id": "100004845731888"
 			},
 			{
 				"type": "wahlde",
@@ -71554,6 +72618,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/B/bas_baerbel/258168"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/117765389823217731468"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/baerbelbas",
 				"id": "19438957"
@@ -71673,6 +72741,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Burkhard_Blienert"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Burkhard_Blienert"
 			}
 		],
 		"checked": false
@@ -71768,6 +72840,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/marco.buelow",
 				"id": "793947750621975"
+			},
+			{
+				"type": "flickr",
+				"url": "https://www.flickr.com/photos/marcobuelow/"
 			},
 			{
 				"type": "twitter",
@@ -72109,6 +73185,10 @@
 				"id": "124214517597871"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/117810738334771677435"
+			},
+			{
 				"type": "wahlde",
 				"url": "https://www.wahl.de/politiker/spd/martin-doermann"
 			},
@@ -72189,6 +73269,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/MichaelaEngelmeierMdB",
 				"id": "459619670738781"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/108348748079693637336"
 			},
 			{
 				"type": "twitter",
@@ -72312,6 +73396,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/erststimmedagmarfreitag",
 				"id": "352049611577164"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100002399045977",
+				"id": "100002399045977"
 			},
 			{
 				"type": "website",
@@ -72517,6 +73606,10 @@
 				"id": "1752084079"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/105557544504784866971"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/kerstingriese",
 				"id": "39709752"
@@ -72598,6 +73691,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/michaelgrossmdb",
 				"id": "770570202999067"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/101619272975146825645"
 			},
 			{
 				"type": "twitter",
@@ -72690,6 +73787,10 @@
 				"id": "385433161521193"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/101381506798438652819"
+			},
+			{
 				"type": "website",
 				"url": "http://www.ulrich-hampel.de/"
 			},
@@ -72765,6 +73866,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/SebastianHartmannSPD",
 				"id": "337368156374937"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/sebastian.hartmann.334",
+				"id": "100001221970309"
 			},
 			{
 				"type": "twitter",
@@ -72847,6 +73953,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/DirkHeidenblutMdB",
 				"id": "430759423677288"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/106227925509506745528"
 			},
 			{
 				"type": "website",
@@ -73022,6 +74132,10 @@
 				"id": "226774424126627"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/116860535805820827623"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/hellmichmdb",
 				"id": "786498202832822272"
@@ -73099,6 +74213,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/hendricks.barbara",
 				"id": "547698145253905"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.studivz.net/barbara-hendricks"
 			},
 			{
 				"type": "website",
@@ -73219,6 +74337,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/K/kaczmarek_oliver/258632"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/115390340031803986572"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/kaczmarekoliver",
 				"id": "231440493"
@@ -73291,6 +74413,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/K/kapschack_ralf/258574"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/ralf.kapschack",
+				"id": "100005745064161"
+			},
+			{
 				"type": "website",
 				"url": "http://www.ralf-kapschack.de/"
 			},
@@ -73357,6 +74484,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/arno.klare.spd",
 				"id": "480197465350951"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/arno.klare",
+				"id": "100002186643242"
 			},
 			{
 				"type": "twitter",
@@ -73902,6 +75034,10 @@
 				"id": "439265522793389"
 			},
 			{
+				"type": "instagram",
+				"url": "https://instagram.com/michellemuentefering/"
+			},
+			{
 				"type": "website",
 				"url": "http://www.michelle-muentefering.de/"
 			},
@@ -74060,6 +75196,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/DietmarNietan",
 				"id": "447923461909909"
+			},
+			{
+				"type": "instagram",
+				"url": "https://instagram.com/dietmar_nietan/"
 			},
 			{
 				"type": "website",
@@ -74226,6 +75366,11 @@
 				"id": "189259604552544"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/mahmut.ozdemir.315",
+				"id": "100000212259964"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/oezdemir_spd",
 				"id": "1399764944"
@@ -74370,6 +75515,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Achim.Post",
 				"id": "275065419228117"
+			},
+			{
+				"type": "flickr",
+				"url": "https://www.flickr.com/photos/achimpost/"
 			},
 			{
 				"type": "twitter",
@@ -74542,6 +75691,10 @@
 				"id": "100000707196789"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/114036899134034181081"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/spduesseldorf",
 				"id": "30838821"
@@ -74662,6 +75815,11 @@
 				"id": "146026902222830"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/petra.rodebosse.1",
+				"id": "100005807891052"
+			},
+			{
 				"type": "website",
 				"url": "http://www.rode-bosse.de/"
 			},
@@ -74739,6 +75897,10 @@
 				"id": "119314141466641"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/100873218165462102811"
+			},
+			{
 				"type": "website",
 				"url": "https://www.roespel.de/"
 			}
@@ -74810,6 +75972,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/schaefer_axel/258978"
+			},
+			{
+				"type": "facebook",
+				"id": "643840382338092",
+				"url": "https://www.facebook.com/axel.schaefer.bochum"
 			},
 			{
 				"type": "website",
@@ -74928,6 +76095,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/USchiefner",
 				"id": "321220311306238"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/115765201429864948586"
 			},
 			{
 				"type": "wahlde",
@@ -75052,6 +76223,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/schmidt_ulla/258940"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/ullafueraachen",
+				"id": "558021017561546"
+			},
+			{
 				"type": "website",
 				"url": "http://www.ulla-schmidt.de/"
 			},
@@ -75125,6 +76301,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/ElfiSchoAntwerpes",
 				"id": "596967903813388"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116449370603617340573"
 			},
 			{
 				"type": "twitter",
@@ -75384,6 +76564,10 @@
 				"id": "132854030244592"
 			},
 			{
+				"type": "instagram",
+				"url": "https://instagram.com/frank.schwabe/"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/frankschwabe",
 				"id": "30050484"
@@ -75455,6 +76639,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/stefan.schwartze",
 				"id": "444872249052425"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/109751435435423798200"
 			},
 			{
 				"type": "twitter",
@@ -75811,6 +76999,11 @@
 				"id": "702563316515363"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/michael.thews.96",
+				"id": "1765406006"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/michael_thews",
 				"id": "409258073"
@@ -76071,6 +77264,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/V/voepel_dirk/259400"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/116825338628806208373"
+			},
+			{
 				"type": "wahlde",
 				"url": "https://www.wahl.de/politiker/spd/dirk-voepel"
 			},
@@ -76219,6 +77416,10 @@
 				"id": "369365856491724"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/104461508370709414963"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/dirkwiese4",
 				"id": "815469233090023424"
@@ -76335,6 +77536,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/guelistanyueksel",
 				"id": "346662715427037"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/gulistan.yuksel.58",
+				"id": "100005029693668"
 			},
 			{
 				"type": "website",
@@ -77073,6 +78279,11 @@
 				"id": "100000542743471"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100000542743471",
+				"id": "100000542743471"
+			},
+			{
 				"type": "profile",
 				"url": "https://www.cdurlp.de/personen/peter-bleser"
 			},
@@ -77373,6 +78584,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/gebhart.th/",
 				"id": "399610793419033"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/109867713077474980904"
 			},
 			{
 				"type": "profile",
@@ -77747,6 +78962,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Mechthild_Heil"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profile/Mechthild_Heil"
 			}
 		],
 		"checked": false
@@ -78134,6 +79353,10 @@
 				"id": "407312495997600"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/117480768060276436668"
+			},
+			{
 				"type": "profile",
 				"url": "https://www.cdurlp.de/personen/antje-lezius"
 			},
@@ -78267,6 +79490,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/cdu.metzler",
 				"id": "1081248444"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/110188748330299197881"
 			},
 			{
 				"type": "instagram",
@@ -78403,6 +79630,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/DrAndreasNick",
 				"id": "574764652545364"
+			},
+			{
+				"type": "instagram",
+				"url": "https://instagram.com/drandreasnick/"
 			},
 			{
 				"type": "profile",
@@ -78588,6 +79819,11 @@
 				"id": "120767057956472"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/erwin.rueddel",
+				"id": "100001118495505"
+			},
+			{
 				"type": "profile",
 				"url": "https://www.cdurlp.de/personen/erwin-r%C3%BCddel"
 			},
@@ -78676,6 +79912,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/SchaeferMdB",
 				"id": "129956130521403"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/anita.schafer.355",
+				"id": "100006011653466"
 			},
 			{
 				"type": "profile",
@@ -78811,6 +80052,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/patrickschniedermdb",
 				"id": "511399752215114"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/106691004945196574472"
 			},
 			{
 				"type": "instagram",
@@ -78959,6 +80204,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/johannes.steiniger",
 				"id": "1606725526229201"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/+johannessteiniger"
 			},
 			{
 				"type": "profile",
@@ -81415,6 +82664,10 @@
 				"id": "278875132141051"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/112249616724467718121"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/tobiaslindner",
 				"id": "21197524"
@@ -81733,6 +82986,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/tabea.roessner",
 				"id": "567749374"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/105591279762543616476"
 			},
 			{
 				"type": "twitter",
@@ -82706,6 +83963,11 @@
 				"id": "100000599376971"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100000599376971",
+				"id": "100000599376971"
+			},
+			{
 				"type": "website",
 				"url": "http://www.mdb-alexander-ulrich.de"
 			},
@@ -82815,6 +84077,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/W/werner_katrin/259174"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1283306839",
+				"id": "1283306839"
 			},
 			{
 				"type": "twitter",
@@ -82936,6 +84203,10 @@
 				"id": "1522202731410785"
 			},
 			{
+				"type": "flickr",
+				"url": "https://www.flickr.com/photos/katarinabarley/"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/katarinabarley",
 				"id": "4097559143"
@@ -83012,6 +84283,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/B/barnett_doris/258186"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100010015353539",
+				"id": "100010015353539"
 			},
 			{
 				"type": "website",
@@ -83257,6 +84533,11 @@
 				"id": "339735429489657"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/angelika.glockner.1",
+				"id": "100004234301709"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/a_gloeckner",
 				"id": "976421048"
@@ -83380,6 +84661,11 @@
 				"id": "475865579194090"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/marcus.held.9",
+				"id": "100001829041286"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/marcusheld_spd",
 				"id": "2860802891"
@@ -83467,6 +84753,11 @@
 				"id": "421758451194567"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/gustav.herzog",
+				"id": "1287560969"
+			},
+			{
 				"type": "website",
 				"url": "http://www.gustav-herzog.de/"
 			},
@@ -83542,6 +84833,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/thomashitschler",
 				"id": "228669933928090"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/104919687436057714214"
 			},
 			{
 				"type": "twitter",
@@ -83996,6 +85291,10 @@
 				"id": "161929783920704"
 			},
 			{
+				"type": "instagram",
+				"url": "https://instagram.com/andreanahles/"
+			},
+			{
 				"type": "website",
 				"url": "https://www.andrea-nahles.de/"
 			},
@@ -84191,6 +85490,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/DetlevPilger",
 				"id": "370248632997656"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116928930390550361035"
 			},
 			{
 				"type": "twitter",
@@ -85410,6 +86713,11 @@
 				"id": "400133866760848"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/ingo.gaedechens",
+				"id": "100000872166212"
+			},
+			{
 				"type": "website",
 				"url": "http://www.ingo-gaedechens.de/"
 			},
@@ -85520,6 +86828,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/markhelfrich.de",
 				"id": "264320630338108"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/mark.helfrich.50",
+				"id": "1609042288"
 			},
 			{
 				"type": "wahlde",
@@ -85990,6 +87303,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/S/storjohann_gero/258950"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/gero.storjohann",
+				"id": "100000078911664"
+			},
+			{
 				"type": "website",
 				"url": "http://www.gero-storjohann.de/"
 			},
@@ -86056,6 +87374,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/MdB.Stritzl",
 				"id": "571531942883916"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/thomas.stritzl",
+				"id": "100000119424283"
 			},
 			{
 				"type": "website",
@@ -86355,6 +87678,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/johann.wadephul",
 				"id": "1619528691651829"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/101213392998067856917"
 			},
 			{
 				"type": "twitter",
@@ -86986,6 +88313,10 @@
 				"id": "1056504013"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/101231996452020191068"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/KonstantinNotz",
 				"id": "17752770"
@@ -87219,6 +88550,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/CorneliaMoehring",
 				"id": "229017740475871"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/people/Cornelia-Mohring/1274382621",
+				"id": "1274382621"
 			},
 			{
 				"type": "twitter",
@@ -87774,6 +89110,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/M/malecha_nissen_birgit/258742"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/102752375678502436832"
+			},
+			{
 				"type": "wahlde",
 				"url": "http://www.wahl.de/politiker/spd/birgit-malecha-nissen"
 			},
@@ -88033,7 +89373,7 @@
 			},
 			{
 				"type": "facebook",
-				"url": "https://www.facebook.com/soenkerix?ref=nf",
+				"url": "https://www.facebook.com/soenkerix",
 				"id": "1767379248"
 			},
 			{
@@ -88170,6 +89510,10 @@
 				"type": "twitter",
 				"url": "https://twitter.com/edrossmann",
 				"id": "38645930"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.meinvz.net/Profile/efae4c4d8707df1c"
 			},
 			{
 				"type": "wahlde",
@@ -88472,6 +89816,11 @@
 				"id": "422763787806545"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/karin.thissen.5",
+				"id": "100003975156371"
+			},
+			{
 				"type": "website",
 				"url": "http://www.karin-thissen.de/"
 			},
@@ -88756,6 +90105,11 @@
 			{
 				"type": "facebook",
 				"url": "https://www.facebook.com/thomas.lutze.sb",
+				"id": "1407618129"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1407618129",
 				"id": "1407618129"
 			},
 			{
@@ -89515,6 +90869,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/christianpetry",
 				"id": "664443296948057"
+			},
+			{
+				"type": "flickr",
+				"url": "https://www.flickr.com/photos/66078469@n08/"
 			},
 			{
 				"type": "twitter",
@@ -91181,6 +92539,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Veronika_Bellmann"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCZN5I0N8NiwcHcz5Ik6npBg"
 			}
 		],
 		"checked": false
@@ -91534,6 +92896,10 @@
 				"id": "110922777487"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/+drthomasfeist"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/drthomasfeist",
 				"id": "47990090"
@@ -91614,6 +92980,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Frank-Heinrich-120072323812/",
 				"id": "120072323812"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116902699782263054561"
 			},
 			{
 				"type": "website",
@@ -91830,6 +93200,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Carsten_Körber"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Carsten_Koerber"
 			}
 		],
 		"checked": false
@@ -92021,6 +93395,10 @@
 				"id": "100000289877650"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/114346244422680361782"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/kretsc",
 				"id": "393264968"
@@ -92195,6 +93573,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/L/landgraf_katharina/258682"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/113404523813949815510"
 			},
 			{
 				"type": "wahlde",
@@ -92561,6 +93943,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Arnold_Vaatz"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCTUeb23t4ionj47bMlfQRtw"
 			}
 		],
 		"checked": false
@@ -92726,6 +94112,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/marian.wendt/",
 				"id": "554153017969006"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/117415513318836152047"
 			},
 			{
 				"type": "twitter",
@@ -93955,6 +95345,11 @@
 				"id": "1497169888"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=1497169888",
+				"id": "1497169888"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/stephankuehn",
 				"id": "104100946"
@@ -94902,6 +96297,11 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/K/karawanskij_susanna/258566"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/karawanskij",
+				"id": "1154439689"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/suzakarawanskij",
 				"id": "892779458"
@@ -95122,6 +96522,10 @@
 				"id": "668729169812570"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/110847082939631981755"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/carenlay",
 				"id": "21404382"
@@ -95251,6 +96655,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/michael.leutert",
 				"id": "177828029071801"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/110096098953141451598"
 			},
 			{
 				"type": "twitter",
@@ -95830,6 +97238,11 @@
 				"id": "432585870259587"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100000023225391",
+				"id": "100000023225391"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/jwunderlichbt",
 				"id": "3748945281"
@@ -95920,6 +97333,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/MdB.Sabine.Zimmermann",
 				"id": "151354428319746"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/sabine.zimmermann.1656",
+				"id": "100003827246502"
 			},
 			{
 				"type": "website",
@@ -96164,6 +97582,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/J/jurk_thomas/258542"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/thomas.jurk.39",
+				"id": "100001949046242"
 			},
 			{
 				"type": "website",
@@ -96467,6 +97890,10 @@
 				"id": "178584822306524"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/102675688223029956304"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/danielakolbe",
 				"id": "516783036"
@@ -96706,6 +98133,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Simone_Raatz"
+			},
+			{
+				"type": "xing",
+				"url": "https://www.xing.com/profiles/Simone_Raatz"
 			}
 		],
 		"checked": false
@@ -96776,6 +98207,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/Susann-R%C3%BCthrich-SPD-465750076812877",
 				"id": "465750076812877"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/susann.ruthrich",
+				"id": "100004497392849"
 			},
 			{
 				"type": "twitter",
@@ -97882,6 +99318,11 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/D/daldrup_bernhard/258262"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/bernhard.daldrup",
+				"id": "1668638784"
 			},
 			{
 				"type": "wikipedia",
@@ -100932,6 +102373,10 @@
 				"id": "675262355856034"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/106833755998525369725"
+			},
+			{
 				"type": "profile",
 				"url": "http://www.gruene-lsa.de/team/steffi-lemke-2/"
 			},
@@ -101456,6 +102901,11 @@
 				"id": "203933859649610"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100002519522580",
+				"id": "100002519522580"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/jankortemdb",
 				"id": "4164673821"
@@ -101720,6 +103170,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/MdB.Petra.Sitte",
 				"id": "231707130202357"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/117386081539926837381"
 			},
 			{
 				"type": "twitter",
@@ -102004,6 +103458,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/DrKarambaDiaby",
 				"id": "330061277100619"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/karamba.diaby.56",
+				"id": "100015662610263"
 			},
 			{
 				"type": "profile",
@@ -102303,6 +103762,10 @@
 			{
 				"type": "bundestag",
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/L/lischka_burkhard/258704"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/107360009980529953106"
 			},
 			{
 				"type": "profile",
@@ -103272,6 +104735,10 @@
 				"url": "http://www.flickr.com/photos/manfred_grund/"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/116048039953345223323"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/manfred_grund",
 				"id": "18935360"
@@ -103279,10 +104746,6 @@
 			{
 				"type": "vz",
 				"url": "http://www.meinvz.net/manfred-grund"
-			},
-			{
-				"type": "website",
-				"url": "http://www.picasaweb.google.de/www.manfredgrund.de/"
 			},
 			{
 				"type": "website",
@@ -103295,6 +104758,10 @@
 			{
 				"type": "website",
 				"url": "http://www.manfredgrund.de"
+			},
+			{
+				"type": "website",
+				"url": "http://www.picasaweb.google.de/www.manfredgrund.de/"
 			},
 			{
 				"type": "wikipedia",
@@ -103373,6 +104840,11 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/mark.hauptmann.cdu",
 				"id": "121036874736442"
+			},
+			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/mark.hauptmann",
+				"id": "779825111"
 			},
 			{
 				"type": "twitter",
@@ -103465,6 +104937,10 @@
 				"type": "twitter",
 				"url": "https://twitter.com/christianhirte",
 				"id": "37642893"
+			},
+			{
+				"type": "vz",
+				"url": "http://www.studivz.net/Profile/79aa55690ef7491b"
 			},
 			{
 				"type": "website",
@@ -103701,6 +105177,10 @@
 				"id": "134229626612248"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/110280924835959418680"
+			},
+			{
 				"type": "twitter",
 				"url": "https://twitter.com/tschipanski",
 				"id": "39938182"
@@ -103895,6 +105375,10 @@
 				"url": "https://www.bundestag.de/abgeordnete18/biografien/T/tillmann_antje/259124"
 			},
 			{
+				"type": "google",
+				"url": "https://plus.google.com/116094470159477070167"
+			},
+			{
 				"type": "website",
 				"url": "http://www.antje-tillmann.de/"
 			},
@@ -103973,6 +105457,11 @@
 				"id": "246939565393407"
 			},
 			{
+				"type": "facebook",
+				"url": "https://www.facebook.com/volkmar.vogel.7",
+				"id": "100003687030353"
+			},
+			{
 				"type": "website",
 				"url": "http://www.volkmar-vogel.de/"
 			},
@@ -104045,6 +105534,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/albert.weiler.wk194",
 				"id": "558945014144891"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/116840989465539281845"
 			},
 			{
 				"type": "website",
@@ -104986,6 +106479,10 @@
 			{
 				"type": "wikipedia",
 				"url": "https://de.wikipedia.org/wiki/Katrin_Göring-Eckardt"
+			},
+			{
+				"type": "youtube",
+				"url": "https://www.youtube.com/channel/UCPwlP9_bqWGy2tmLNg0uh5A"
 			}
 		],
 		"checked": false
@@ -105900,6 +107397,10 @@
 				"id": "268201630002882"
 			},
 			{
+				"type": "linkedin",
+				"url": "https://www.linkedin.com/profile/view?id=364820367"
+			},
+			{
 				"type": "website",
 				"url": "http://www.steffen-lemme.de/"
 			},
@@ -106091,6 +107592,10 @@
 				"type": "facebook",
 				"url": "https://www.facebook.com/schneidercar",
 				"id": "107591306090255"
+			},
+			{
+				"type": "google",
+				"url": "https://plus.google.com/113642981312880726121"
 			},
 			{
 				"type": "twitter",
