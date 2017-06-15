@@ -24,7 +24,7 @@
 
 ## Berlin
 
-* AfD [Liste](http://afd.berlin/unsere-landesliste-im-ueberblick/) [Direkt](http://afd.berlin/das-sind-unsere-direktkandidaten/)
+* AfD [Liste](http://afd.berlin/unsere-bundestagskandidaten/) [Direkt](http://afd.berlin/das-sind-unsere-direktkandidaten/)
 * CDU [Liste](http://cdu.berlin/lokal_1_1_271_Kandidatinnen-und-Kandidaten-fuer-die-Bundestagswahl.html)
 * FDP [Beides](https://www.fdp-berlin.de/wahlen/kandidaten/)
 * Grüne [Liste](https://gruene.berlin/pressemitteilung/berliner-gruene-waehlen-landesliste-zur-bundestagswahl-2017)
