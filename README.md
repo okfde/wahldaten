@@ -203,9 +203,9 @@ Sammelt der BWL alle Daten oder z.B. nur aggregiert auf Wahlkreis-Ebene?
 
 # 5. Projektideen
 (Hauptsächlich von [hier](https://pad.okfn.de/p/%F0%9F%90%8Ben2017).) Füge mehr hinzu, wenn du magst!
-    
-- **Was zählt meine Stimme**? Abhängig vom Wohnort soll ein potenzieller (Meine Stimme /Anzahl Wahlberichtigter im Wahlkreis) sowie ein wahrscheinlicher Impact-Faktor (meine Stimme /tatsächliche absolute Wahlbeteiligung) berechnet werden. Die Ausgabe wäre eine natürliche Zahl als Indikator in welchen Wahlkreisen meine Stimme besonders wichtig ist.
-- Wahlprüfsteine 
+
+- **Was zählt meine Stimme**? Abhängig vom Wohnort soll ein potenzieller (Meine Stimme /Anzahl Wahlberichtigter im Wahlkreis) sowie ein wahrscheinlicher Impact-Faktor (meine Stimme /tatsächliche absolute Wahlbeteiligung) berechnet werden. Die Ausgabe wäre eine natürliche Zahl als Indikator in welchen Wahlkreisen meine Stimme besonders wichtig ist. [ein kleiner Prototyp wurde mal in NRW gemacht](https://codefornrw.github.io/vote-impactor/)
+- Wahlprüfsteine
 - **Vergleich** Landtag, EU, Kommunen
 - Demografie
 - Wahldatentransperenz
