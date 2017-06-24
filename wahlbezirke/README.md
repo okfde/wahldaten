@@ -1,48 +1,53 @@
 # Wahlbezirke
 
-Ein Wahlbezirk (oder auch Stimmbezirk genannt) ist die kleinste organisatorische (meist auch geografische) Einheit der Wahl. [Wikipedia: Wahlbezirk](https://de.wikipedia.org/wiki/Wahlbezirk), [Bundestag-Glossar: Wahlbezirk](https://www.bundestag.de/service/glossar/glossar/W/wahlbezirk/246356)
+Ein Wahlbezirk (oder auch Stimmbezirk genannt) ist die kleinste organisatorische (meist auch geografische) Einheit der Wahl. Aus dem [Bundestag-Glossar: Wahlbezirk](https://www.bundestag.de/service/glossar/glossar/W/wahlbezirk/246356) (via [Wikipedia: Wahlbezirk](https://de.wikipedia.org/wiki/Wahlbezirk)):
 
-Sie existieren auf kommunaler Ebene für die verschiedenen Wahlen, und die Einteilung ist Sache der jeweiligen Kommune (manchmal auch Gemeindeverbände?).  – *nochmal genauer checken.*
+> Jeder Wahlkreis wird noch einmal in Wahlbezirke, auch Stimmbezirke genannt, unterteilt, um das Wählen einfacher zu gestalten.
+>
+> Dabei sollen grundsätzlich nicht mehr als 2500 Wahlberechtigte in einem Wahlbezirk sein. Kleinere Gemeinden bilden i. d. R. einen Wahlbezirk, größere werden aufgeteilt.
+>
+> Kein Wahlbezirk darf so klein sein, daß erkennbar wird, wie einzelne Wahlberechtigte gewählt haben.
 
-Die Wahlbezirke sind die kleinstmögliche Auflösung bei der Abbildung des Wahlverhaltens, da sie i.d.R. nicht mehr als 2500 Wahlberechtigte umfassen. Und daher für detaillierte Analysen möglicherweise sehr interessant.
+Sie existieren auf kommunaler Ebene, werden für die verschiedenen Wahltypen (Kommunal, Landtag, Bundestag, etc.) genutzt und ihre Einteilung ist Sache der jeweiligen Kommune.
+
+* [ ] manchmal auch Gemeindeverbände? *nochmal genauer checken.*
+
+Die Wahlbezirke sind die kleinstmögliche Auflösung in der Abbildung des Wahlverhaltens, da sie i.d.R. nicht mehr als 2500 Wahlberechtigte umfassen. Daher sind sie für detaillierte Analysen sehr interessant.
 
 ## Datenlage
 
-**TODO**: Nochmal bei Ländern und Kreisen nachfragen, ob das wirklich so aussichtslos ist.
+Es gibt keine Daten zu Wahlbezirken auf Bundes- noch Landesebene. Diese verbleiben bei den Kommunen, welche  nur die aggregierten Ergebnisse auf Wahlkreiseben weitergeben.
 
-Es gibt keine Daten dazu auf Landesebene, es verbleibt bei den Kommunen. Die geben nur aggregierte Ergebnisse weiter.
+Kommunen sind jedoch verpflichtet (?) die Ergebnisse auf Wahlbezirksebene zu veröffentlichen. Dort ließen sich die Daten herbekommen.
 
-Kommunen sind aber verpflichtet(??), die Ergebnisse auf Wahlbezirksebene zu veröffentlichen. Da könnte man die Daten herbekommen.
+* [ ] **TODO**: Nochmal bei Ländern und Kreisen nachfragen, ob das wirklich so aussichtslos ist.
 
-**Geo-Daten** dazu wird es höchstwahrscheinlich, sicherlich mit ein paar Ausnahmen, dazu NICHT geben. In den meisten Ergebnis-Veröffentlichungen der einzelnen Gemeinden sind allerdings Adressen für die einzelnen Wahlbezirke (das ist dann das Wahllokal) angegeben.
+Zugehörige **Geo-Daten** existieren, mit wenigen zu findenden Ausnahmen, zumeist nicht.
+In den meisten Ergebnisveröffentlichungen der einzelnen Gemeinden sind allerdings Adressen für die einzelnen Wahlbezirke, d.h. die Wahllokale, angegeben.
 
-### Was kann man tun?
+### Was lässt sich tun?
 
-Die Veröffentlichungen der einzelnen Kommunen zusammenscrapen. So gelangt man sowohl an die generellen Meta-Daten der Wahlbezirke sowie auch zu den Einzelergebnissen.
+Die Veröffentlichungen der einzelnen Kommunen können zusammengescrapet werden. So ließen sich die generellen Metadaten der Wahlbezirke sowie deren Einzelergebnisse erhalten.
 
-Viele Kommunen nutzen für die Veröffentlichung ihrer Wahlbezirks-Ergebnisse Software von IT-Anbietern, sodass mit Scrapern für diese Plattformen ein Großteil der Daten zu bekommen wäre.
+Viele Kommunen nutzen für die Veröffentlichung ihrer Wahlbezirksergebnisse Software von einigen wenigen IT-Anbietern, sodass mit Scrapern für diese Plattformen ein Großteil der Daten zu bekommen wäre.
 
 #### Beispiele
 
-**[votemanager](http://wahlen.votemanager.de/)**
-
+* **[votemanager](http://wahlen.votemanager.de/)**
 Diese Plattform verwenden wohl 1140 Kommunen. Auf den einzelnen Unterseiten pro Gemeinde oder Kreis gibt es sogar CSV-Dateien zum Download – [Beispiel](http://wahlen.regioit.de/AC/LW17/05334002/html5/MedienvertreterInfo.html)
-
-**[PC Wahl](http://www.wahl.mobi/)**
-
+* **[PC Wahl](http://www.wahl.mobi/)**
 Eine JS-basierte Webapp, die in zwei Versionen vorkommt. Aktueller scheint [das hier](http://www.wahl.mobi/) zu sein, viele Kommunen verwenden eine vorherige, [das sieht dann so aus](https://wahlen.digistadtdo.de/wahlergebnisse/index.html)
-
 Damit könnte man geschätzt 1000-2000 weitere Gemeinden abdecken.
-
-**[Wahlergebnispräsentation (WEP)](http://wahl.krzn.de/wahl2017/)**
-
+* **[Wahlergebnispräsentation (WEP)](http://wahl.krzn.de/wahl2017/)**
 Bietet das *Kommunale Rechenzentrum Niederrhein* für die dortigen Gemeinden und Kreise an. **TODO** müsste man schauen, wo es das oder vergleichbare Systeme noch gibt.
-
-**usw.**
+* **usw.**
 
 [Ein besonderer Leckerbissen, der auch sehr verbreitet scheint](http://www.hamm.de/apps/PCWahl/java/L2017_Zweit/index.html)
 
-Das sind nur Beispiele, die zeigen: Die Daten gibt es irgendwo, nur nicht 1.) zentralisiert und 2.) in einheitlichem, maschinenlesbaren Format.
+Das sind nur einige Beispiele, die zeigen, dass es die Daten irgendwo gibt, nur nicht
+
+1. zentralisiert und
+2. in einheitlichem, maschinenlesbaren Format.
 
 ### Let's scrape
 
@@ -50,6 +55,6 @@ Das sind nur Beispiele, die zeigen: Die Daten gibt es irgendwo, nur nicht 1.) ze
 
 #### 1. Sammlung der Quellen
 
-Welche Kommune veröffentlicht wo (URL) ihre Ergebnisse auf Wahlbezirks-Ebene? Ein Anfang ist diese Liste, die auf den Daten basiert, die in der Software [votemanager](http://wahlen.votemanager.de/) hinterlegt sind.
+Welche Kommune veröffentlicht wo (URL) ihre Ergebnisse auf Wahlbezirks-Ebene? Ein Anfang ist diese Liste, die auf den Daten, die in der Software [votemanager](http://wahlen.votemanager.de/) hinterlegt sind.
 
 [Liste der URLs, unter denen Kommunen ihre Ergebnisse auf Wahlbezirksebene veröffentlichen](./data/quellen_wahlbezirke.csv)
