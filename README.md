@@ -49,7 +49,7 @@ Beispiele:
 	* Parteien die zur Wahl stehen (Zweitstimme)
 	* Direktkandidaten 
 	* Briefwahlergebnisse
-* Wahlbezirke
+* [Wahlbezirke](./wahlbezirke/)
 	* Geometrie (Polygone)
 	* Adresslisten: Zuordnung von Adressen zu Wahlbezirken
 	* Wahllokal-Adresse
