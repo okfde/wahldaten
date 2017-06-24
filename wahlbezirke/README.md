@@ -55,6 +55,6 @@ Das sind nur einige Beispiele, die zeigen, dass es die Daten irgendwo gibt, nur 
 
 #### 1. Sammlung der Quellen
 
-Welche Kommune veröffentlicht wo (URL) ihre Ergebnisse auf Wahlbezirks-Ebene? Ein Anfang ist diese Liste, die auf den Daten, die in der Software [votemanager](http://wahlen.votemanager.de/) hinterlegt sind.
+Welche Kommune veröffentlicht wo (URL) ihre Ergebnisse auf Wahlbezirks-Ebene? Ein Anfang ist die folgende Liste, welche auf den mit der Software [votemanager](http://wahlen.votemanager.de/) hinterlegten Daten basiert.
 
 [Liste der URLs, unter denen Kommunen ihre Ergebnisse auf Wahlbezirksebene veröffentlichen](./data/quellen_wahlbezirke.csv)
