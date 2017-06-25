@@ -216,6 +216,7 @@ Sammelt der BWL alle Daten oder z.B. nur aggregiert auf Wahlkreis-Ebene?
 - Mediale Unterstützung: Kann man sehen, welche Zeitungen/**Medien** wie nah an bestimmten Parteien stehen und sie durch Berichterstattung pushen? Gibts es evtl. Themen (Wohnungsbau), die bestimmte Medien besonders gern in Wahlzeiten thematisieren? (Bei der Berlinwahl wurde die Flüchtlingskrise für alles verantwortlich gemacht)
 - **Direktmandate** zu BTW: Wo ist das Potenzial der AfD? 
 - Veränderung der Stimmbezirk- und **Wahlkreiszuschneidung** nachvollziehen
+	* https://github.com/saerdnaer/bundestagswahlkreise
 - Wo werden **Wahlplakate** aufgestellt? 
 - Wieviel kosten **Wahlkampagnen**? 
 - Wer ist eigentlich zur Wahl **zugelassen**? 
