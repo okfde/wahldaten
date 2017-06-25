@@ -34,12 +34,13 @@ Viele Kommunen nutzen für die Veröffentlichung ihrer Wahlbezirksergebnisse Sof
 #### Beispiele
 
 * **[votemanager](http://wahlen.votemanager.de/)**
-Diese Plattform verwenden wohl 1140 Kommunen. Auf den einzelnen Unterseiten pro Gemeinde oder Kreis gibt es sogar CSV-Dateien zum Download – [Beispiel](http://wahlen.regioit.de/AC/LW17/05334002/html5/MedienvertreterInfo.html)
+Diese Plattform der vote iT GmbH aus Aachen/Gütersloh verwenden ca. 1140 Kommunen. Auf den einzelnen Unterseiten pro Gemeinde oder Kreis gibt es CSV-Dateien zum Download – [Beispiel](http://wahlen.regioit.de/AC/LW17/05334002/html5/MedienvertreterInfo.html)
 * **[PC Wahl](http://www.wahl.mobi/)**
-Eine JS-basierte Webapp, die in zwei Versionen vorkommt. Aktueller scheint [das hier](http://www.wahl.mobi/) zu sein, viele Kommunen verwenden eine vorherige, [das sieht dann so aus](https://wahlen.digistadtdo.de/wahlergebnisse/index.html)
+Eine JS-basierte Webapp von der selbsen Firma wie oben, die in zwei Versionen vorkommt. Aktueller scheint [das hier](http://www.wahl.mobi/) zu sein, viele Kommunen verwenden eine vorherige, [das sieht dann so aus](https://wahlen.digistadtdo.de/wahlergebnisse/index.html)
 Damit könnte man geschätzt 1000-2000 weitere Gemeinden abdecken.
 * **[Wahlergebnispräsentation (WEP)](http://wahl.krzn.de/wahl2017/)**
 Bietet das *Kommunale Rechenzentrum Niederrhein* für die dortigen Gemeinden und Kreise an. **TODO** müsste man schauen, wo es das oder vergleichbare Systeme noch gibt.
+* **[OK.WAHL](https://www.akdb.de/loesungen/okbuergerservice/okwahl/uebersicht/)** von der Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB) – Beispielexporte: http://wahlen.landkreis-dillingen.de/bundestag/2013/EE/773000_000026/0007731250001.html?Gemeinde=0007731250000.html&Wahlbezirk=0007731250001.html 
 * **usw.**
 
 [Ein besonderer Leckerbissen, der auch sehr verbreitet scheint](http://www.hamm.de/apps/PCWahl/java/L2017_Zweit/index.html)
